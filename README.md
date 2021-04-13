@@ -3,7 +3,7 @@ Ontology-based rare disease identification from free-text clinical notes
 
 The main idea is illustrated below:
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width="600" title="Ontology matching and entity linking for rare disease identification">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width="1000" title="Ontology matching and entity linking for rare disease identification">
 </p>
 
 # Acknowledgement
