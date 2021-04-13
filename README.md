@@ -1,20 +1,16 @@
 # Rare-disease-identification
 Ontology-based rare disease identification from free-text clinical notes
 
-The main idea is illustrated below:
+A graphical illustration for the entity linking and ontology matching process:
+
 <p align="center">
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width="1100" title="Ontology matching and entity linking for rare disease identification">
 </p>
 
 # Acknowledgement
 Acknowledgement to the icons used: 
-
-MIMIC icon from https://mimic.physionet.org/
-
-UMLS icon from https://uts.nlm.nih.gov/uts/umls/ 
-
-ORDO icon from http://www.orphadata.org/cgi-bin/index.php
-
-Ministry of Health, New Zealand icon from https://www.health.govt.nz/nz-health-statistics/data-references/mapping-tools/mapping-between-icd-10-and-icd-9
-
-ICD 10 icon from https://icd.who.int/browse10/Content/ICD10.png
+* MIMIC icon from https://mimic.physionet.org/
+* UMLS icon from https://uts.nlm.nih.gov/uts/umls/ 
+* ORDO icon from http://www.orphadata.org/cgi-bin/index.php
+* Ministry of Health, New Zealand icon from https://www.health.govt.nz/nz-health-statistics/data-references/mapping-tools/mapping-between-icd-10-and-icd-9
+* ICD 10 icon from https://icd.who.int/browse10/Content/ICD10.png
