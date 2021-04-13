@@ -1,7 +1,7 @@
 # Rare-disease-identification
 Ontology-based rare disease identification from free-text clinical notes
 
-A graphical illustration for the entity linking and ontology matching process:
+A graphical illustration of the entity linking and ontology matching process:
 
 <p align="center">
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=100% title="Ontology matching and entity linking for rare disease identification">
