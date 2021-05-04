@@ -1,7 +1,6 @@
 # Rare-disease-identification
 Ontology-based rare disease identification from free-text clinical notes
 
-# Update:
 (4 May 2021) The annotation of rare disease mentions created from this research will be released soon.
 
 A graphical illustration of the entity linking and ontology matching process:
