@@ -7,6 +7,9 @@ A graphical illustration of the entity linking and ontology matching process:
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=100% title="Ontology matching and entity linking for rare disease identification">
 </p>
 
+# Update:
+(4 May 2021) The annotation of rare disease mentions created from this research will be released soon.
+
 # Acknowledgement
 Acknowledgement to the icons used: 
 * MIMIC icon from https://mimic.physionet.org/
