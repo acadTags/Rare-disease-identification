@@ -6,13 +6,13 @@ The annotation of rare disease mentions created from this research is available 
 A graphical illustration of the entity linking and ontology matching process:
 
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=100% title="Ontology matching and entity linking for rare disease identification">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=80% title="Ontology matching and entity linking for rare disease identification">
 </p>
 
 # Weak supervision process
 
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=100% title="Weak supervision to improve entity linking">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=80% title="Weak supervision to improve entity linking">
 </p>
 
 # Acknowledgement
