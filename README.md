@@ -1,7 +1,7 @@
 # Rare-disease-identification
 Ontology-based rare disease identification from free-text clinical notes
 
-(4 May 2021) The annotation of rare disease mentions created from this research will be released soon.
+The annotation of rare disease mentions created from this research is available at [link]() as a `.xlsx` file; the description of the data is in the second sheet of the file.
 
 A graphical illustration of the entity linking and ontology matching process:
 
@@ -14,10 +14,6 @@ A graphical illustration of the entity linking and ontology matching process:
 <p align="center">
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=100% title="Weak supervision to improve entity linking">
 </p>
-
-# Data annotation (for evaluation)
-The annotated data (in `.xlsx` format) are available at [link]().
-The data dictionary and data sampling and annotation process are explained in the second sheet of this `.xlsx` file.
 
 # Acknowledgement
 Acknowledgement to the icons used: 
