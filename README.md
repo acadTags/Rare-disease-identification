@@ -14,7 +14,7 @@ The process to create weakly labelled data with contextual representation is ill
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=75% title="Weak supervision to improve entity linking">
 </p>
 
-## Rare disease annotations
+## Rare disease mention annotations
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Acknowledgement
