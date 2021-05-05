@@ -5,13 +5,13 @@ This repository presents an approach using **ontologies** and **weak supervision
 ## Entity linking and ontology matching
 A graphical illustration of the entity linking and ontology matching process:
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=75% title="Ontology matching and entity linking for rare disease identification">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=80% title="Ontology matching and entity linking for rare disease identification">
 </p>
 
 ## Weak supervision (WS)
 The process to create weakly labelled data with contextual representation is illustrated below:
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=75% title="Weak supervision to improve entity linking">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=80% title="Weak supervision to improve entity linking">
 </p>
 
 ## Rare disease mention annotations
