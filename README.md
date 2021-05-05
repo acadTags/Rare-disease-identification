@@ -9,6 +9,16 @@ A graphical illustration of the entity linking and ontology matching process:
     <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=100% title="Ontology matching and entity linking for rare disease identification">
 </p>
 
+# Weak supervision process
+
+<p align="center">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=100% title="Weak supervision to improve entity linking">
+</p>
+
+# Data annotation (for evaluation)
+The annotated data (in `.xlsx` format) are available at [link]().
+The data dictionary and data sampling and annotation process are explained in the second sheet of this `.xlsx` file.
+
 # Acknowledgement
 Acknowledgement to the icons used: 
 * MIMIC icon from https://mimic.physionet.org/
