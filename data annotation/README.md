@@ -3,8 +3,8 @@
 The rare disease mention annotations are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
 
 **Note:**
-* This annotations are by no means to be perfect; also, it is based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR) so it may not cover all rare diseases mentions from the sampled discharge summaries.
-* In the mention `nph` is not in the document structure (due to error in mention extraction with SemEHR), thus the `gold mention-to-UMLS label` is `-1`.
+* These manual annotations are by no means to be perfect. Also, they are based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR), which does not have 100% recall, so the annotations may not cover all rare diseases mentions from the sampled discharge summaries.
+* In row 323, the mention `nph` is not in the document structure (due to error in mention extraction), thus the `gold mention-to-UMLS label` is `-1`.
 
 ## Data sampling and annotation procedure
 * (i) Randomly sampled 500 discharge summaries from MIMIC-III
