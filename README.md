@@ -1,7 +1,5 @@
 # Rare-disease-identification
-Ontology-based rare disease identification from free-text clinical notes
-
-This repository presents using ontologies and weak supervision to identify rare diseases from clinical notes. The idea is illustrated below and the data annotation is available for download.
+This repository presents using **ontologies** and **weak supervisio**n to identify rare diseases from clinical notes. The idea is illustrated below and the data annotation is available for download.
 
 ## Entity linking and ontology matching
 A graphical illustration of the entity linking and ontology matching process:
