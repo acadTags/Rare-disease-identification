@@ -15,7 +15,7 @@ The process to create weakly labelled data with contextual representation is ill
 </p>
 
 ## Rare disease annotations
-The annotations of rare disease mentions created from this research are available in the folder `data annotation`.
+The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Acknowledgement
 Acknowledgement to the icons used: 
