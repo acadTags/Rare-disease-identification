@@ -1,6 +1,8 @@
 # Rare-disease-identification
 Ontology-based rare disease identification from free-text clinical notes
 
+This repository presents using ontologies and weak supervision to identify rare diseases from clinical notes. The idea is illustrated below and the data annotation is available for download.
+
 ## Entity linking and ontology matching
 A graphical illustration of the entity linking and ontology matching process:
 <p align="center">
@@ -15,7 +17,8 @@ The process to create weakly labelled data with contextual representation is ill
 
 ## Rare disease annotation
 The annotation of rare disease mentions created from this research is available at [link]() as a `.xlsx` file; the description of the data is in the second sheet of the file.
-(To note that while annotated by 4 researchers in (bio-)medical informatics, this annotation is by no means a perfect one; also, it is based on the output of SemEHR so may not cover all rare diseases mentions from the sampled discharge summaries.)
+
+**Note**: This annotation is by no means a perfect one, although annotated by 4 researchers in (bio-)medical informatics; also, it is based on the output of [SemEHR](https://github.com/CogStack/CogStack-SemEHR) so it may not cover all rare diseases mentions from the sampled discharge summaries.
 
 ## Acknowledgement
 Acknowledgement to the icons used: 
