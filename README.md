@@ -1,6 +1,6 @@
 # Rare-disease-identification
 
-This repository presents an approach using **ontologies** and **weak supervision** to identify rare diseases from clinical notes. The idea is illustrated below and the data annotation is available for download.
+This repository presents an approach using **ontologies** and **weak supervision** to identify rare diseases from clinical notes. The idea is illustrated below and the [data annotation](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation) is available for download.
 
 ## Entity linking and ontology matching
 A graphical illustration of the entity linking and ontology matching process:
