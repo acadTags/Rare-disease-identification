@@ -1,3 +1,11 @@
+The annotated data are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`]().
+
+## Data sampling and annotation procedure
+(i) Randomly sampled 500 discharge summaries (DS) from MIMIC-III
+(ii) 312 of the 500 DS have at least one positive UMLS mention linked to ORDO, as identified by SemEHR; there are altogether 1073 UMLS (or ORDO) mentions.
+(iii) 3 medical informatics researchers (staff or PhD) annotated the 1073 mentions, regarding whether they are phenotypes matched to UMLS and ORDO. Contradictions resolved by a research staff having biomedical background.
+
+## Data dictionary
 | Column   Name                                | Description                                                                                                                                                                                                   |
 |----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ROW_ID                                       | see   https://mimic.physionet.org/mimictables/noteevents/                                                                                                                                                     |
