@@ -1,6 +1,6 @@
-## Data annotations
+## Data annotation
 
-The annotated data are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
+The rare disease mention annotations are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
 
 **Note:**
 * This annotations are by no means to be perfect; also, it is based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR) so it may not cover all rare diseases mentions from the sampled discharge summaries.
