@@ -20,7 +20,7 @@ The process to create weakly labelled data with contextual representation is ill
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Acknowledgement
-This work is carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [Edie-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
+This work is carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [EdiE-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
 
 Acknowledgement to the icons used: 
 * MIMIC icon from https://mimic.physionet.org/
