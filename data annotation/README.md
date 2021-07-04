@@ -1,8 +1,10 @@
 ## Data annotation
 
-The full rare disease mention annotations are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
+The full rare disease mention annotations (of 312 discharge summaries in MIMIC-III) are available in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
 
-The data split is also available, where the first 400 rows were used as [`the validation set`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv) and the last 673 rows were used as [`the test set`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
+The data split is also available:
+* the first 400 rows were used as [`the validation set`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
+* the last 673 rows were used as [`the test set`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
 
 ## Data sampling and annotation procedure
 * (i) Randomly sampled 500 discharge summaries from MIMIC-III
