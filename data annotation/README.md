@@ -3,8 +3,8 @@
 The 1,073 full rare disease mention annotations (from 312 MIMIC-III discharge summaries) are in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
 
 The data split:
-* the first 400 rows were used for validation, [`validation_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
-* the last 673 rows were used for testing, [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
+* the first 400 rows are used for validation, [`validation_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
+* the last 673 rows are used for testing, [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
 
 ## Data sampling and annotation procedure
 * (i) Randomly sampled 500 discharge summaries from MIMIC-III
@@ -33,5 +33,5 @@ The data split:
 
 **Note:**
 * These manual annotations are by no means to be perfect. There are hypothetical mentions which were difficult for the annotators to make a decision. Also, they are based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR), which does not have 100% recall, so the annotations may not cover all rare diseases mentions from the sampled discharge summaries.
-* In row 323, the mention `nph` is not in the document structure (due to error in mention extraction), thus the `gold mention-to-UMLS label` is `-1`.
+* In row 323 from the full set or the validation set, the mention `nph` is not in the document structure (due to error in mention extraction), thus the `gold mention-to-UMLS label` is `-1`.
 
