@@ -1,8 +1,8 @@
 ## Data annotation
 
-The full rare disease mention annotations (of 312 discharge summaries in MIMIC-III) are available in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
+The 1,073 full rare disease mention annotations (from 312 MIMIC-III discharge summaries) are in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
 
-The data split is also available:
+The data split:
 * the first 400 rows were used for validation, [`validation_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
 * the last 673 rows were used for testing, [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
 
@@ -11,7 +11,7 @@ The data split is also available:
 
 * (ii) 312 of the 500 discharge summaries have at least one positive UMLS mention linked to ORDO, as identified by SemEHR; there are altogether 1073 UMLS (or ORDO) mentions.
 
-* (iii) 3 medical informatics researchers (staff or PhD students) annotated the 1073 mentions, regarding whether they are the correct patient phenotypes matched to UMLS and ORDO. Contradictions in the annotations were then resolved by another research staff having biomedical background.
+* (iii) 3 medical informatics researchers (staff or PhD students) annotated the 1,073 mentions, regarding whether they are the correct patient phenotypes matched to UMLS and ORDO. Contradictions in the annotations were then resolved by another research staff having biomedical background.
 
 ## Data dictionary
 
