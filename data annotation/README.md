@@ -1,10 +1,8 @@
 ## Data annotation
 
-The rare disease mention annotations are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
+The full rare disease mention annotations are available in [`Rare disease annotations from 312 MIMIC-III discharge summaries.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/Rare%20disease%20annotations%20from%20312%20MIMIC-III%20discharge%20summaries.csv).
 
-**Note:**
-* These manual annotations are by no means to be perfect. There are hypothetical mentions which were difficult for the annotators to make a decision. Also, they are based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR), which does not have 100% recall, so the annotations may not cover all rare diseases mentions from the sampled discharge summaries.
-* In row 323, the mention `nph` is not in the document structure (due to error in mention extraction), thus the `gold mention-to-UMLS label` is `-1`.
+The data split is also available, where the first 400 rows were used as [`the validation set`]() and the last 673 rows were used as [`the test set`]().
 
 ## Data sampling and annotation procedure
 * (i) Randomly sampled 500 discharge summaries from MIMIC-III
@@ -30,4 +28,8 @@ The rare disease mention annotations are available in [`Rare disease annotations
 | gold mention-to-UMLS label                 | Whether the mention-UMLS pair indicate a correct phenotype of the patient (i.e. a positive mention that correctly matches to the UMLS concept), 1 if correct, 0 if not.                                 |
 | gold UMLS-to-ORDO label                    | Whether the matching is correct from the UMLS concept to the ORDO concept, 1 if correct, 0 if not.                                                                                                          |
 | gold mention-to-ORDO label                 | Whether the mention-ORDO triple indicates a correct phenotype of the patient, 1 if correct, 0 if not. This column is 1 if both the mention-to-UMLS label and the UMLS-to-ORDO label are 1, otherwise 0. |
+
+**Note:**
+* These manual annotations are by no means to be perfect. There are hypothetical mentions which were difficult for the annotators to make a decision. Also, they are based on the output of [`SemEHR`](https://github.com/CogStack/CogStack-SemEHR), which does not have 100% recall, so the annotations may not cover all rare diseases mentions from the sampled discharge summaries.
+* In row 323, the mention `nph` is not in the document structure (due to error in mention extraction), thus the `gold mention-to-UMLS label` is `-1`.
 

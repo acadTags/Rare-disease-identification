@@ -1,0 +1,678 @@
+ROW_ID,SUBJECT_ID,HADM_ID,document structure name,document structure offset in full document,mention,mention offset in document structure,mention offset in full document,UMLS with desc,ORDO with desc,gold text-to-UMLS label,gold UMLS-to-ORDO label,gold text-to-ORDO label
+25095,1633,129770,basic,0 5008,GBS,565 578,565 568,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+25095,1633,129770,basic,0 5008,autoimmune hepatitis,653 683,653 673,C0241910 Autoimmune Hepatitis,Orphanet_2137  Autoimmune hepatitis,1,1,1
+19849,7223,129670,History_of_Past_Illness,1150 1379,ATN,206 219,1356 1359,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+19849,7223,129670,Hospital_Discharge_Physical,1786 1943,SEM,63 76,1849 1852,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+20589,47775,133249,Hospital_course,13288 18320,AMS,105 118,13393 13396,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+20589,47775,133249,History_of_Past_Illness,2424 2768,rheumatic fever,228 253,2652 2667,C0035436 Rheumatic Fever,Orphanet_3099  Rheumatic fever,1,1,1
+20589,47775,133249,History_of_Present_Illness,397 2424,AMS,2020 2033,2417 2420,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+20617,741,133898,History_of_Past_Illness,1657 2054,lyme's disease,234 258,1891 1905,C0024198 Borrelia,Orphanet_91546  Lyme disease,1,1,1
+20617,741,133898,Admission_Medications,2054 8738,NPH,50 63,2104 2107,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+20617,741,133898,Admission_Medications,2054 8738,NPH,3217 3230,5271 5274,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+20617,741,133898,Admission_Medications,2054 8738,NPH,3513 3526,5567 5570,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+20617,741,133898,Admission_Medications,2054 8738,NPH,3573 3586,5627 5630,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+23916,8740,122212,History_of_Past_Illness,1013 5721,hyperlipidemia,42 66,1055 1069,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+23916,8740,122212,History_of_Past_Illness,1013 5721,hyperlipidemia,3830 3854,4843 4857,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+23916,8740,122212,basic,0 1013,hyperlipidemia,246 270,246 260,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+22133,85784,117613,Hospital_course,5737 7386,epilepsy,25 43,5762 5770,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+20387,15930,184061,History_of_Past_Illness,1371 1906,hyperlipidemia,180 204,1551 1565,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+20387,15930,184061,facility,116 1371,portal vein thrombosis,190 222,306 328,C0155773 Portal Vein Thrombosis,Orphanet_854  Primitive portal vein thrombosis,1,0,0
+20387,15930,184061,facility,116 1371,MR,985 997,1101 1103,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+21573,13234,124859,facility,121 4268,hyperlipidemia,1870 1894,1991 2005,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+21179,28631,174281,Chief_Complaint_and_Reason_for_Visit,2659 6676,ICD,1777 1790,4436 4439,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+21179,28631,174281,Chief_Complaint_and_Reason_for_Visit,2659 6676,MR,3574 3586,6233 6235,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+21179,28631,174281,Discharge_Diagnosis,10819 11063,hyperlipidemia,128 152,10947 10961,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+21179,28631,174281,History_of_Past_Illness,785 951,hyperlipidemia,84 108,869 883,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+21197,7641,102091,basic,0 4521,hyperlipidemia,1844 1868,1844 1858,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+24896,5492,104044,basic,0 5248,GBS,368 381,368 371,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+24896,5492,104044,basic,0 5248,GBS,526 539,526 529,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+38702,73385,135402,Discharge_Medications,30665 32377,HFA,862 875,31527 31530,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+38702,73385,135402,Discharge_Medications,30665 32377,ml iv,1451 1466,32116 32121,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+39676,75159,109611,pertinent_results,2462 3983,arachnoid cyst,1116 1140,3578 3592,C0078981 Arachnoid Cyst,Orphanet_2356  Arachnoid cyst,1,1,1
+39676,75159,109611,Hospital_course,3983 6072,CMO,1912 1925,5895 5898,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+25656,18766,102015,basic,0 6537,MR,2297 2309,2297 2299,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+40001,82086,111187,History_of_Present_Illness,472 1865,GBS,553 566,1025 1028,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+38218,42776,159027,Hospital_Discharge_Instructions,16999 19269,DRS,2043 2056,19042 19045,C0013261 Duane Anomaly,Orphanet_233  Duane retraction syndrome,0,1,0
+38218,42776,159027,pertinent_results,4662 7322,HD,1342 1354,6004 6006,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38218,42776,159027,History_of_Present_Illness,389 3299,DM1,55 68,444 447,C0027126 STEINERT DIS,Orphanet_206647  Myotonic dystrophy,0,1,0
+39720,90046,154676,Review_of_Systems,2015 2530,HPI,27 40,2042 2045,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+38759,96407,113616,Review_of_Systems,3122 3372,HPI,27 40,3149 3152,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+38759,96407,113616,History_of_Past_Illness,3372 3505,TTP,70 83,3442 3445,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,1,1,1
+38759,96407,113616,Hospital_course,8689 14769,ATN,4084 4097,12773 12776,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+38759,96407,113616,Hospital_course,8689 14769,HD,4312 4324,13001 13003,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Hospital_course,8689 14769,HD,4391 4403,13080 13082,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Hospital_course,8689 14769,HD,4469 4481,13158 13160,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Hospital_course,8689 14769,DM2,5833 5846,14522 14525,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+38759,96407,113616,History_of_Present_Illness,536 3122,DM2,55 68,591 594,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+38759,96407,113616,Procedures,249 536,HD,142 154,391 393,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Procedures,249 536,HD,168 180,417 419,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Procedures,249 536,HD,233 245,482 484,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38759,96407,113616,Procedures,249 536,HD,263 275,512 514,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+38775,42757,167098,History_of_Past_Illness,3880 4602,ICD,136 149,4016 4019,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Past_Illness,3880 4602,ICD,155 168,4035 4038,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Past_Illness,3880 4602,ICD,350 363,4230 4233,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Past_Illness,3880 4602,ICD,455 468,4335 4338,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ICD,98 111,9163 9166,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ICD,309 322,9374 9377,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ICD,1525 1538,10590 10593,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ICD,1729 1742,10794 10797,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,babesiosis,3634 3654,12699 12709,C0004576 Babesiases,Orphanet_108  Babesiosis,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,lyme disease,3648 3670,12713 12725,C0024198 Borrelia,Orphanet_91546  Lyme disease,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ATN,4429 4442,13494 13497,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ATN,4660 4673,13725 13728,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+38775,42757,167098,Hospital_course,9065 15915,ICD,5744 5757,14809 14812,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Present_Illness,712 3880,ICD,124 137,836 839,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Present_Illness,712 3880,ICD,154 167,866 869,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+38775,42757,167098,History_of_Present_Illness,712 3880,GBS,2133 2146,2845 2848,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+38775,42757,167098,History_of_Present_Illness,712 3880,TTP,2148 2161,2860 2863,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,0,1,0
+38775,42757,167098,History_of_Present_Illness,712 3880,TTP,2406 2419,3118 3121,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,0,1,0
+38968,70520,167909,impression,7482 17648,MR,9117 9129,16599 16601,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+38968,70520,167909,pertinent_results,2258 5030,MR,2388 2400,4646 4648,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+40843,59858,199347,Review_of_Systems,2532 2912,HPI,27 40,2559 2562,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+40843,59858,199347,Discharge_Medications,10601 10778,HFA,61 74,10662 10665,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+40489,44656,130791,Hospital_Discharge_Instructions,10845 12611,DRS,764 777,11609 11612,C0013261 Duane Anomaly,Orphanet_233  Duane retraction syndrome,0,1,0
+40489,44656,130791,pertinent_results,3303 4982,MR,1503 1515,4806 4808,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+40489,44656,130791,Hospital_course,4982 8563,MR,2613 2625,7595 7597,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+37532,55514,170308,Discharge_Medications,8041 10343,HFA,528 541,8569 8572,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+37532,55514,170308,Hospital_course,4972 7790,GBS,1993 2006,6965 6968,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+37532,55514,170308,Hospital_course,4972 7790,HD,2601 2613,7573 7575,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+37136,56179,109627,History_of_Present_Illness,358 2265,HPI,1514 1527,1872 1875,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+37158,77439,110528,History_of_Past_Illness,2675 2986,dyslipidemia,47 69,2722 2734,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+37158,77439,110528,History_of_Past_Illness,2675 2986,ICD,210 223,2885 2888,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37158,77439,110528,Hospital_course,8149 9534,ICD,152 165,8301 8304,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37158,77439,110528,Hospital_course,8149 9534,ICD,494 507,8643 8646,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37158,77439,110528,Hospital_course,8149 9534,ICD,647 660,8796 8799,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37158,77439,110528,Hospital_course,8149 9534,ICD,805 818,8954 8957,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37158,77439,110528,History_of_Present_Illness,365 2675,ICD,157 170,522 525,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+37801,59299,154692,Hospital_course,7372 9388,hyperlipidemia,109 133,7481 7495,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+37801,59299,154692,History_of_Present_Illness,323 2566,hyperlipidemia,175 199,498 512,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+38054,79542,194315,Review_of_Systems,2134 2420,HPI,26 39,2160 2163,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+25535,25245,113662,Hospital_course,4741 6173,CMO,229 242,4970 4973,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+25535,25245,113662,Hospital_course,4741 6173,CMO,956 969,5697 5700,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+39348,44288,125243,Hospital_Discharge_Studies,6934 9406,alkaptonuria,2286 2308,9220 9232,C0002066 Alcaptonuria,Orphanet_56  Alkaptonuria,0,1,0
+39348,44288,125243,pertinent_results,3995 5091,HD,714 726,4709 4711,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+40122,43027,191614,pertinent_results,1756 4168,MR,1601 1613,3357 3359,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+40122,43027,191614,Hospital_course,4168 5293,HPI,43 56,4211 4214,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+40122,43027,191614,Hospital_Discharge_Physical,1153 1578,SEM,260 273,1413 1416,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+40555,60262,124023,History_of_Past_Illness,3228 3499,dyslipidemia,49 71,3277 3289,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+37217,90317,142551,Discharge_Diagnosis,14629 14813,autoimmune pancreatitis,157 190,14786 14809,C2609129 Autoimmune pancreatitis,Orphanet_103919  Autoimmune pancreatitis,1,1,1
+27450,23131,178742,Hospital_Discharge_Physical,1926 2375,SEM,239 252,2165 2168,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,HD,64 76,11733 11735,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,105 117,11774 11776,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,135 147,11804 11806,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,176 188,11845 11847,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,200 212,11869 11871,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,261 273,11930 11932,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,299 311,11968 11970,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,383 395,12052 12054,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,448 460,12117 12119,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,542 554,12211 12213,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,563 575,12232 12234,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,GT,586 598,12255 12257,C0040015 Thrombasthenia,Orphanet_849  Glanzmann thrombasthenia,0,1,0
+27484,27726,156290,Admission_Medications,11669 12347,HD,673 685,12342 12344,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,History_of_Past_Illness,3028 3774,HD,33 45,3061 3063,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,65 77,5682 5684,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,1851 1863,7468 7470,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,2384 2396,8001 8003,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,3225 3237,8842 8844,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,4649 4661,10266 10268,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HCP,5331 5344,10948 10951,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HCP,5473 5486,11090 11093,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+27484,27726,156290,Hospital_course,5617 11669,HD,5550 5562,11167 11169,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,History_of_Present_Illness,391 3028,HD,59 71,450 452,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,History_of_Present_Illness,391 3028,HD,272 284,663 665,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27484,27726,156290,History_of_Present_Illness,391 3028,HD,1360 1372,1751 1753,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+37240,55507,189435,Discharge_Diagnosis,8129 8371,hyperlipidemia,67 91,8196 8210,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+37240,55507,189435,History_of_Past_Illness,876 1109,hyperlipidemia,68 92,944 958,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+37240,55507,189435,Hospital_Discharge_Physical,1275 1779,HD,262 274,1537 1539,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+40196,66133,116011,Chief_Complaint_and_Reason_for_Visit,213 246,AMS,17 30,230 233,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+40196,66133,116011,Hospital_course,5941 9256,AMS,354 367,6295 6298,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+40196,66133,116011,Hospital_course,5941 9256,AMS,2522 2535,8463 8466,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+40196,66133,116011,Hospital_course,5941 9256,sarcoid,2754 2771,8695 8702,C0036202 Sarcoid NOS,Orphanet_797  Sarcoidosis,0,1,0
+40196,66133,116011,Hospital_course,5941 9256,MR,3058 3070,8999 9001,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+40196,66133,116011,Hospital_course,5941 9256,hyperlipidemia,3218 3242,9159 9173,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+26563,2192,157007,basic,0 3516,GBS,478 491,478 481,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+25829,58441,133224,Review_of_Systems,1670 1761,HPI,27 40,1697 1700,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+25829,58441,133224,Hospital_course,-1 5147,CMO,23 33,22 22,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+25829,58441,133224,Hospital_course,-1 5147,AIP,23 33,22 22,C0162565 Acute Porphyria,Orphanet_79276  Acute intermittent porphyria,0,1,0
+25829,58441,133224,Hospital_course,-1 5147,ATN,23 33,22 22,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+25829,58441,133224,Hospital_course,-1 5147,scds,23 33,22 22,C0002895 HbS Disease,Orphanet_232  Sickle cell anemia,0,1,0
+28965,12736,159404,History_of_Present_Illness,282 1996,tetanus,934 951,1216 1223,C0039614 Tetanus,Orphanet_3299  Tetanus,0,1,0
+26941,59367,134528,Discharge_Diagnosis,10154 10276,MR,50 62,10204 10206,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,2536 2571,2658 2683,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,2779 2814,2901 2926,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,3285 3320,3407 3432,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,3446 3481,3568 3593,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,5126 5161,5248 5273,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,necrotizing enterocolitis,5192 5227,5314 5339,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,facility,122 8453,retinopathy of prematurity,5697 5733,5819 5845,C0035344 Terry Syndrome,Orphanet_90050  Retinopathy of prematurity,1,1,1
+26976,25397,136124,Immunizations,8453 11360,necrotizing enterocolitis,2239 2274,10692 10717,C0520459 Necrotising enterocolitis,Orphanet_391673  Necrotizing enterocolitis,1,1,1
+26976,25397,136124,Immunizations,8453 11360,retinopathy of prematurity,2461 2497,10914 10940,C0035344 Terry Syndrome,Orphanet_90050  Retinopathy of prematurity,1,1,1
+26123,16290,125791,History_of_Past_Illness,842 971,hyperlipidemia,22 46,864 878,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+26123,16290,125791,Hospital_Discharge_Physical,1168 1450,SEM,186 199,1354 1357,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+27335,29629,132678,History_of_Past_Illness,951 1880,portal vein thrombosis,336 368,1287 1309,C0155773 Portal Vein Thrombosis,Orphanet_854  Primitive portal vein thrombosis,1,0,0
+29045,71851,145136,History_of_Past_Illness,2419 2709,dyslipidemia,63 85,2482 2494,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,0,0,0
+29045,71851,145136,History_of_Present_Illness,332 2419,HPI,1932 1945,2264 2267,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+29048,5226,189046,Discharge_Diagnosis,3765 3998,hyperlipidemia,45 69,3810 3824,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+26825,14358,143701,History_of_Past_Illness,2158 2538,SSS,63 76,2221 2224,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+26825,14358,143701,pertinent_results,3311 4522,MR,459 471,3770 3772,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+26825,14358,143701,pertinent_results,3311 4522,ema,826 839,4137 4140,C0268596 Glutaric Aciduria II,Orphanet_26791  Multiple acyl-CoA dehydrogenase deficiency,0,1,0
+26825,14358,143701,Hospital_course,4522 5540,CMO,792 805,5314 5317,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+26825,14358,143701,Hospital_course,4522 5540,CMO,993 1006,5515 5518,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+26825,14358,143701,History_of_Present_Illness,342 2158,SSS,734 747,1076 1079,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+30504,16087,116851,History_of_Past_Illness,1013 1115,polymyalgia rheumatica,37 69,1050 1072,C0039483 HORTON DIS,Orphanet_397  Giant cell arteritis,1,1,1
+32261,28983,135893,Nutrition,7316 17169,retinopathy of prematurity,4188 4228,11504 11534,C0035344 Terry Syndrome,Orphanet_90050  Retinopathy of prematurity,1,1,1
+32261,28983,135893,Nutrition,7316 17169,retinopathy of prematurity,9229 9265,16545 16571,C0035344 Terry Syndrome,Orphanet_90050  Retinopathy of prematurity,1,1,1
+32261,28983,135893,basic,0 7316,GBS,798 811,798 801,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+27639,19458,174727,Hospital_course,-1 11652,HD,6065 6077,6064 6066,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27639,19458,174727,Hospital_course,-1 11652,HD,6176 6188,6175 6177,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+27639,19458,174727,History_of_Present_Illness,934 2580,HPI,28 41,962 965,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+28902,16758,194100,basic,0 5335,GBS,612 625,612 615,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+32094,30399,146398,History_of_Past_Illness,1377 1428,DM2,22 35,1399 1402,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+28690,40213,143496,Hospital_Discharge_Studies,3354 6038,legionella,592 612,3946 3956,C0023241 Legionella,Orphanet_549  Legionellosis,0,1,0
+25941,22694,180015,basic,0 5004,GBS,569 582,569 572,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+27222,31069,135663,Hospital_course,9682 15205,MR,1222 1234,10904 10906,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+27222,31069,135663,Procedures,6973 9682,MR,545 557,7518 7520,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+27222,31069,135663,Hospital_Discharge_Physical,3463 3944,SEM,222 235,3685 3688,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+25757,44890,150042,Hospital_course,5768 11074,ATN,2526 2539,8294 8297,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+25757,44890,150042,Hospital_course,5768 11074,HCP,5187 5200,10955 10958,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+25971,59991,191918,Hospital_course,6870 11231,PLAN,34 48,6904 6908,C0270724 Seitelberger Disease,Orphanet_35069  Infantile neuroaxonal dystrophy,0,1,0
+25971,59991,191918,Hospital_course,6870 11231,HCP,4280 4293,11150 11153,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+25353,27390,110930,Discharge_Medications,9466 11678,HFA,199 212,9665 9668,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+25353,27390,110930,Discharge_Medications,9466 11678,HFA,464 477,9930 9933,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+25391,7712,119752,History_of_Past_Illness,1339 2223,PML,461 474,1800 1803,C0023524 Prog multifoc leukoencep,Orphanet_217260  Progressive multifocal leukoencephalopathy,0,1,0
+27264,19199,103143,basic,0 7050,GBS,439 452,439 442,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,0,1,0
+41498,50893,114454,History_of_Past_Illness,2000 2554,dyslipidemia,65 87,2065 2077,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+41498,50893,114454,History_of_Past_Illness,2000 2554,ICD,179 192,2179 2182,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+41513,73322,171246,Hospital_course,2457 4543,HD,399 411,2856 2858,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41513,73322,171246,Hospital_course,2457 4543,HD,1660 1672,4117 4119,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47026,18250,184039,History_of_Past_Illness,2095 2684,hyperlipidemia,305 329,2400 2414,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47026,18250,184039,Hospital_course,6636 12237,seizure disorder,2801 2827,9437 9453,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+47026,18250,184039,Hospital_course,6636 12237,HD,2963 2975,9599 9601,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47026,18250,184039,Hospital_course,6636 12237,hyperparathyroidism,3580 3609,10216 10235,C0020502 Hyperparathyroidism,Orphanet_181408  Rare hyperparathyroidism,1,0,0
+47026,18250,184039,Hospital_course,6636 12237,central retinal vein occlusion,4772 4812,11408 11438,C0154841 Cent retinal vein occlus,Orphanet_411527  Central retinal vein occlusion,1,1,1
+47026,18250,184039,History_of_Present_Illness,343 2095,NH,151 163,494 496,C0268059 Neonatal hemochromatosis,Orphanet_446  Neonatal hemochromatosis,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,CMO,1684 1697,7607 7610,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,ATN,2190 2203,8113 8116,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,CMO,2957 2970,8880 8883,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,portal vein thrombosis,2966 2998,8889 8911,C0155773 Portal Vein Thrombosis,Orphanet_854  Primitive portal vein thrombosis,1,0,0
+47035,27171,129780,Hospital_course,5923 10641,CMO,4114 4127,10037 10040,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,HCP,4483 4496,10406 10409,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+47035,27171,129780,Hospital_course,5923 10641,CMO,4703 4716,10626 10629,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+45138,67536,120346,Hospital_course,4293 8851,HD,1326 1338,5619 5621,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+45138,67536,120346,Hospital_course,4293 8851,beta-thalassemia,2765 2791,7058 7074,C0005283 Beta Thalassemia,Orphanet_848  Beta-thalassemia,1,1,1
+45138,67536,120346,Hospital_course,4293 8851,beta thalassemia,3916 3942,8209 8225,C0005283 Beta Thalassemia,Orphanet_848  Beta-thalassemia,1,1,1
+45138,67536,120346,History_of_Present_Illness,346 858,hemochromatosis,84 109,430 445,C0018995 Hemochromatose,Orphanet_220489  Rare hereditary hemochromatosis,1,0,0
+45138,67536,120346,Hospital_Discharge_Physical,1546 1850,WD,100 112,1646 1648,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+42584,44191,175521,Discharge_Diagnosis,9557 9627,hyperlipidemia,53 77,9610 9624,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+42584,44191,175521,History_of_Past_Illness,2667 2804,SSS,70 83,2737 2740,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+42584,44191,175521,Hospital_course,5819 8652,sick sinus syndrome,2178 2207,7997 8016,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+42584,44191,175521,History_of_Present_Illness,346 2667,SSS,156 169,502 505,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+47088,71220,105141,Discharge_Medications,9301 11295,HD,1764 1776,11065 11067,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Discharge_Medications,9301 11295,HD,1777 1789,11078 11080,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Discharge_Medications,9301 11295,HD,1812 1824,11113 11115,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,History_of_Past_Illness,1766 2017,MR,132 144,1898 1900,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,71 83,6292 6294,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,372 384,6593 6595,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,802 814,7023 7025,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,882 894,7103 7105,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,1434 1446,7655 7657,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_course,6221 8549,HD,2112 2124,8333 8335,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,History_of_Present_Illness,503 1766,HD,106 118,609 611,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,History_of_Present_Illness,503 1766,HD,907 919,1410 1412,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47088,71220,105141,Hospital_Discharge_Physical,2204 2771,SEM,209 222,2413 2416,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+42597,80132,115856,Discharge_Diagnosis,8005 8116,hyperlipidemia,82 106,8087 8101,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+42597,80132,115856,History_of_Past_Illness,1154 1205,hyperlipidemia,35 59,1189 1203,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+42597,80132,115856,pertinent_results,2458 5338,MR,1954 1966,4412 4414,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+45970,9592,174215,Social_History,2679 2767,HCP,81 94,2760 2763,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+45970,9592,174215,History_of_Present_Illness,244 2223,HCP,1885 1898,2129 2132,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+46459,92317,144189,Hospital_course,2877 4247,MLS,179 192,3056 3059,C0796070 Midas Syndrome,Orphanet_2556  Microphthalmia with linear skin defects syndrome,0,1,0
+46459,92317,144189,Hospital_Discharge_Physical,1320 1509,WD,63 75,1383 1385,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+44132,19984,137446,Discharge_Diagnosis,6627 6690,ALS,21 34,6648 6651,C0002736 GEHRIGS DIS,Orphanet_803  Amyotrophic lateral sclerosis,1,1,1
+44132,19984,137446,History_of_Past_Illness,1237 1467,ALS,57 70,1294 1297,C0002736 GEHRIGS DIS,Orphanet_803  Amyotrophic lateral sclerosis,1,1,1
+44132,19984,137446,Hospital_course,3101 4988,ALS,47 60,3148 3151,C0002736 GEHRIGS DIS,Orphanet_803  Amyotrophic lateral sclerosis,1,1,1
+44132,19984,137446,History_of_Present_Illness,323 1237,ALS,52 65,375 378,C0002736 GEHRIGS DIS,Orphanet_803  Amyotrophic lateral sclerosis,1,1,1
+44150,53735,191928,History_of_Past_Illness,3844 4091,hyperlipidemia,201 225,4045 4059,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+44150,53735,191928,pertinent_results,4811 6265,OCC,650 663,5461 5464,C0029421 Osteochondrit dissecans,Orphanet_2764  Osteochondritis dissecans,0,1,0
+44150,53735,191928,Hospital_course,8245 11085,her disease,1469 1490,9714 9725,C0017925 Her Disease,Orphanet_369  Glycogen storage disease due to liver glycogen phosphorylase deficiency,0,1,0
+44150,53735,191928,Hospital_course,8245 11085,hyperlipidemia,1808 1832,10053 10067,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+46265,21740,154162,Hospital_course,4078 6797,CMO,2521 2534,6599 6602,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+46274,32172,104628,Hospital_course,8374 15345,DM2,116 129,8490 8493,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46274,32172,104628,Hospital_course,8374 15345,DM2,4471 4484,12845 12848,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+41565,90392,108989,interpretation,13951 19218,ATN,4468 4481,18419 18422,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+41565,90392,108989,Discharge_Medications,19256 21025,HFA,1195 1208,20451 20454,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+41565,90392,108989,Hospital_course,13627 13951,ATN,262 275,13889 13892,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+41565,90392,108989,History_of_Present_Illness,430 3350,ATN,1395 1408,1825 1828,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+44472,1226,103915,History_of_Past_Illness,1801 2797,sick sinus syndrome,896 925,2697 2716,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+46706,83393,144741,History_of_Past_Illness,713 950,hyperthyroidism,46 71,759 774,C0020550 hyperthyroid,Orphanet_181399  Rare hyperthyroidism,1,0,0
+47052,21966,106184,basic,0 4312,MR,625 637,625 627,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+45078,86276,173367,Discharge_Diagnosis,8625 8738,hyperlipidemia,96 120,8721 8735,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+45078,86276,173367,History_of_Past_Illness,1034 1762,hyperlipidemia,80 104,1114 1128,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+45078,86276,173367,History_of_Past_Illness,1034 1762,seizure disorder,221 247,1255 1271,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+45078,86276,173367,History_of_Past_Illness,1034 1762,seizure disorder,496 522,1530 1546,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+45078,86276,173367,Hospital_course,4377 7674,endo,2919 2933,7296 7300,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+45400,21858,172012,Hospital_Discharge_Physical,3017 3457,SEM,242 255,3259 3262,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+45441,27251,113393,Admission_Medications,12358 13515,MG,580 592,12938 12940,C0026896 Myasthenia Gravis,Orphanet_589  Myasthenia gravis,0,1,0
+45441,27251,113393,History_of_Past_Illness,1173 2030,MR,264 276,1437 1439,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+45441,27251,113393,Social_History,2030 2530,HCP,404 417,2434 2437,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+44744,66109,144234,Review_of_Systems,1494 1893,HPI,27 40,1521 1524,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+44744,66109,144234,Admission_Medications,8229 8643,IH,61 73,8290 8292,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+44744,66109,144234,Admission_Medications,8229 8643,IH,168 180,8397 8399,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+44744,66109,144234,Hospital_course,6063 8229,DM1,47 60,6110 6113,C0027126 STEINERT DIS,Orphanet_206647  Myotonic dystrophy,0,1,0
+44744,66109,144234,Hospital_course,6063 8229,ITP,1413 1426,7476 7479,"C0398650 ITP, NOS",Orphanet_3002  Immune thrombocytopenic purpura,1,1,1
+46361,27800,104090,Discharge_Diagnosis,10959 11059,DM2,79 92,11038 11041,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46361,27800,104090,Discharge_Medications,8867 10871,HFA,744 757,9611 9614,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+46361,27800,104090,Admission_Medications,8521 8867,HFA,188 201,8709 8712,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+46361,27800,104090,pertinent_results,3686 6131,tracheobronchomalacia,2302 2333,5988 6009,C0340231 Tracheobronchomalacia,Orphanet_411501  Williams-Campbell syndrome,0,1,0
+46361,27800,104090,Hospital_course,6131 8521,HD,465 477,6596 6598,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+46361,27800,104090,Hospital_course,6131 8521,HD,891 903,7022 7024,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+44783,91827,121956,Discharge_Medications,5981 6623,HFA,527 540,6508 6511,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+45787,29185,110871,Admission_Medications,3690 4037,IH,196 208,3886 3888,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+46820,86455,187756,History_of_Past_Illness,1368 1497,pmr,33 46,1401 1404,C0032533 Senile arthritis,Orphanet_93569  Polymyalgia rheumatica,1,1,1
+46820,86455,187756,Hospital_course,8822 15844,DM2,5901 5914,14723 14726,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46820,86455,187756,Hospital_course,8822 15844,DM2,5923 5936,14745 14748,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46820,86455,187756,History_of_Present_Illness,426 1368,LNS,550 563,976 979,"C0023374 Deficiency, HGPRT","DO/Orphanet_510
+ http://www.orpha.net/ORDO/Orphanet_206428                                       Lesch-Nyhan syndrome
+ Hypoxanthine-guanine phosphoribosyltransferase deficiency",0,1,0
+46820,86455,187756,History_of_Present_Illness,426 1368,HPI,892 905,1318 1321,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,MR,128 140,2078 2080,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,MR,385 397,2335 2337,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,hyperlipidemia,865 889,2815 2829,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+46636,71825,174301,Hospital_course,7079 11186,DM2,222 235,7301 7304,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46636,71825,174301,History_of_Present_Illness,390 1950,DM2,116 129,506 509,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,MR,128 140,2078 2080,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,MR,385 397,2335 2337,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+46636,71825,174301,History_of_Past_Illness,1950 3438,hyperlipidemia,865 889,2815 2829,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+46637,71825,149167,History_of_Present_Illness,342 2569,HPI,75 88,417 420,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+46637,71825,149167,History_of_Present_Illness,342 2569,ICD,230 243,572 575,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+32946,28775,137169,Hospital_course,6346 8192,epilepsy,945 963,7291 7299,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+32946,28775,137169,History_of_Present_Illness,330 1991,seizure disorder,103 129,433 449,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+32946,28775,137169,History_of_Present_Illness,330 1991,PHT,491 504,821 824,C3203102 PAH,Orphanet_275766  Idiopathic pulmonary arterial hypertension,0,1,0
+32946,28775,137169,History_of_Present_Illness,330 1991,PHT,1054 1067,1384 1387,C3203102 PAH,Orphanet_275766  Idiopathic pulmonary arterial hypertension,0,1,0
+35397,81349,119516,Discharge_Diagnosis,7917 8302,HD,137 149,8054 8056,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35397,81349,119516,Discharge_Diagnosis,7917 8302,tracheobronchomalacia,261 292,8178 8199,C0340231 Tracheobronchomalacia,Orphanet_411501  Williams-Campbell syndrome,1,1,1
+35397,81349,119516,Discharge_Medications,6391 7818,HD,1268 1280,7659 7661,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35397,81349,119516,History_of_Past_Illness,1488 2031,GBS,375 388,1863 1866,C0018378 Guillain Barre Syndrome,Orphanet_2103  Guillain-Barré syndrome,1,1,1
+35397,81349,119516,Hospital_course,3316 6203,HD,395 407,3711 3713,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35397,81349,119516,Hospital_course,3316 6203,HD,440 452,3756 3758,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35397,81349,119516,Hospital_course,3316 6203,HD,578 590,3894 3896,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35397,81349,119516,Hospital_course,3316 6203,HD,1814 1826,5130 5132,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+32993,32438,177482,Discharge_Medications,7570 9582,ml iv,1290 1305,8860 8865,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+32993,32438,177482,pertinent_results,1195 5528,ICD,1272 1285,2467 2470,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+34416,75493,152863,Discharge_Diagnosis,10376 10512,dilated cardiomyopathy,62 94,10438 10460,C0007193 Dilated Cardiomyopathy,Orphanet_217604  Dilated cardiomyopathy,1,1,1
+34416,75493,152863,Hospital_course,6740 9107,dilated cardiomyopathy,68 100,6808 6830,C0007193 Dilated Cardiomyopathy,Orphanet_217604  Dilated cardiomyopathy,1,1,1
+34416,75493,152863,Hospital_course,6740 9107,dilated cardiomyopathy,1279 1311,8019 8041,C0007193 Dilated Cardiomyopathy,Orphanet_217604  Dilated cardiomyopathy,1,1,1
+34416,75493,152863,Hospital_course,6740 9107,dilated cardiomyopathy,1367 1399,8107 8129,C0007193 Dilated Cardiomyopathy,Orphanet_217604  Dilated cardiomyopathy,1,1,1
+34416,75493,152863,Hospital_course,6740 9107,MR,1412 1424,8152 8154,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+34416,75493,152863,Hospital_course,6740 9107,MR,1482 1494,8222 8224,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+34416,75493,152863,History_of_Present_Illness,392 2466,dilated cardiomyopathy,1932 1964,2324 2346,C0007193 Dilated Cardiomyopathy,Orphanet_217604  Dilated cardiomyopathy,1,1,1
+34416,75493,152863,History_of_Present_Illness,392 2466,hemochromatosis,1966 1991,2358 2373,C0018995 Hemochromatose,Orphanet_220489  Rare hereditary hemochromatosis,1,0,0
+35579,87055,134482,History_of_Past_Illness,2728 2958,amyloidosis,41 62,2769 2780,C0002726 Amyloidoses,Orphanet_69  Amyloidosis,1,1,1
+35579,87055,134482,History_of_Past_Illness,2728 2958,hyperlipidemia,55 79,2783 2797,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+35579,87055,134482,Hospital_course,10277 13888,HD,109 121,10386 10388,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35579,87055,134482,History_of_Present_Illness,367 2603,HD,114 126,481 483,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+35597,69186,193158,Discharge_Diagnosis,6093 6339,hyperlipidemia,93 117,6186 6200,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+35597,69186,193158,History_of_Past_Illness,972 1147,hyperlipidemia,22 46,994 1008,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+33087,28790,196135,Discharge_Medications,6370 8226,HFA,1111 1124,7481 7484,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+33110,30045,189451,Discharge_Diagnosis,9873 9950,ICD,48 61,9921 9924,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Past_Illness,3111 3634,ICD,383 396,3494 3497,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Past_Illness,3111 3634,hyperlipidemia,469 493,3580 3594,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+33110,30045,189451,Hospital_course,6238 7948,ICD,121 134,6359 6362,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,438 451,770 773,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,598 611,930 933,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,625 638,957 960,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,729 742,1061 1064,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,1301 1314,1633 1636,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,1445 1458,1777 1780,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33110,30045,189451,History_of_Present_Illness,332 3111,ICD,1713 1726,2045 2048,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+33538,29586,155606,Discharge_Medications,4012 5339,HFA,640 653,4652 4655,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+33538,29586,155606,Hospital_course,3097 3886,HD,186 198,3283 3285,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33538,29586,155606,History_of_Present_Illness,322 1644,HPI,28 41,350 353,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+33538,29586,155606,Hospital_Discharge_Physical,1866 2143,WD,73 85,1939 1941,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+33546,93898,132413,Hospital_course,7769 13237,HD,726 738,8495 8497,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33546,93898,132413,Hospital_course,7769 13237,HD,2612 2624,10381 10383,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33546,93898,132413,Hospital_course,7769 13237,HD,4518 4530,12287 12289,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33546,93898,132413,Hospital_course,7769 13237,endo,4899 4913,12668 12672,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+34159,97032,128262,interpretation,9047 14170,ATN,2404 2417,11451 11454,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+34159,97032,128262,History_of_Present_Illness,433 2402,NH,453 465,886 888,C0268059 Neonatal hemochromatosis,Orphanet_446  Neonatal hemochromatosis,0,1,0
+34159,97032,128262,History_of_Present_Illness,433 2402,HCP,1248 1261,1681 1684,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+36527,72329,133473,pertinent_results,2036 7946,ICD,712 725,2748 2751,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+36527,72329,133473,pertinent_results,2036 7946,MR,3092 3104,5128 5130,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+36527,72329,133473,Hospital_Discharge_Physical,1147 1751,SEM,297 310,1444 1447,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+37398,51596,104252,Discharge_Medications,8439 9160,IH,658 670,9097 9099,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+37398,51596,104252,Discharge_Medications,8439 9160,IH,712 724,9151 9153,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+37398,51596,104252,Admission_Medications,7700 8439,IH,329 341,8029 8031,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+37398,51596,104252,Admission_Medications,7700 8439,IH,382 394,8082 8084,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+35625,89536,174278,Review_of_Systems,2687 3156,HPI,27 40,2714 2717,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+35625,89536,174278,Hospital_Discharge_Instructions,15349 16286,endo,150 164,15499 15503,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+37016,40673,118060,History_of_Present_Illness,335 1056,HPI,28 41,363 366,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+35658,96638,169767,Review_of_Systems,1848 2265,HPI,27 40,1875 1878,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+35658,96638,169767,Admission_Medications,9872 10167,MG,86 98,9958 9960,C0026896 Myasthenia Gravis,Orphanet_589  Myasthenia gravis,0,1,0
+35658,96638,169767,Hospital_course,4533 9872,pmr,147 160,4680 4683,C0032533 Senile arthritis,Orphanet_93569  Polymyalgia rheumatica,1,1,1
+35658,96638,169767,Hospital_course,4533 9872,polymyalgia rheumatica,1830 1862,6363 6385,C0039483 HORTON DIS,Orphanet_397  Giant cell arteritis,0,1,0
+35658,96638,169767,Hospital_course,4533 9872,primary adrenal insufficiency,1861 1900,6394 6423,C0001403 ADDISON DIS,Orphanet_85138  Addison disease,1,1,1
+35658,96638,169767,History_of_Present_Illness,250 1848,pmr,109 122,359 362,C0032533 Senile arthritis,Orphanet_93569  Polymyalgia rheumatica,1,1,1
+35658,96638,169767,History_of_Present_Illness,250 1848,LNS,792 805,1042 1045,"C0023374 Deficiency, HGPRT","DO/Orphanet_510
+ http://www.orpha.net/ORDO/Orphanet_206428                                       Lesch-Nyhan syndrome
+ Hypoxanthine-guanine phosphoribosyltransferase deficiency",0,1,0
+33163,27821,188470,impression,5461 7477,MR,612 624,6073 6075,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+33163,27821,188470,History_of_Past_Illness,1231 1284,PML,22 35,1253 1256,C0023524 Prog multifoc leukoencep,Orphanet_217260  Progressive multifocal leukoencephalopathy,1,1,1
+33163,27821,188470,History_of_Present_Illness,335 1231,PML,67 80,402 405,C0023524 Prog multifoc leukoencep,Orphanet_217260  Progressive multifocal leukoencephalopathy,1,1,1
+33163,27821,188470,Hospital_Discharge_Physical,1411 1659,WD,80 92,1491 1493,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+33192,32505,198103,History_of_Past_Illness,2016 2499,hyperlipidemia,415 439,2431 2445,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+33192,32505,198103,Hospital_course,9189 11901,endo,1922 1936,11111 11115,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+33192,32505,198103,Hospital_course,9189 11901,ACLS,2506 2520,11695 11699,C0796147 Acrocallosal Syndrome,Orphanet_36  Acrocallosal syndrome,0,1,0
+34900,61939,129861,pertinent_results,1602 6693,ICD,1809 1822,3411 3414,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+34900,61939,129861,pertinent_results,1602 6693,MR,3397 3409,4999 5001,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+34928,62126,178908,Hospital_Discharge_Instructions,10027 10651,HCP,461 474,10488 10491,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+34928,62126,178908,Discharge_Medications,9271 9705,ml iv,56 71,9327 9332,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+34928,62126,178908,Social_History,1997 2526,HCP,234 247,2231 2234,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+34928,62126,178908,Social_History,1997 2526,HCP,522 535,2519 2522,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+34928,62126,178908,pertinent_results,4834 6642,HD,481 493,5315 5317,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34928,62126,178908,Hospital_course,6642 8831,HD,930 942,7572 7574,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34928,62126,178908,Hospital_course,6642 8831,HCP,1500 1513,8142 8145,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+35228,54345,128084,History_of_Past_Illness,1215 1649,post polio syndrome,111 140,1326 1345,C0080040 Postpolio syndrome,Orphanet_2942  Postpoliomyelitis syndrome,1,1,1
+35228,54345,128084,History_of_Past_Illness,1215 1649,hyperlipidemia,131 155,1346 1360,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+35228,54345,128084,History_of_Past_Illness,1215 1649,DM2,146 159,1361 1364,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+40371,97567,186941,pertinent_results,4845 7852,MR,1183 1195,6028 6030,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+34689,27607,154096,pertinent_results,6160 8529,HD,1214 1226,7374 7376,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,1592 1604,10742 10744,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,1829 1841,10979 10981,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,1952 1964,11102 11104,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,2291 2303,11441 11443,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,her disease,3181 3202,12331 12342,C0017925 Her Disease,Orphanet_369  Glycogen storage disease due to liver glycogen phosphorylase deficiency,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,3334 3346,12484 12486,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34689,27607,154096,Hospital_course,9150 14908,HD,5122 5134,14272 14274,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+36901,66409,100470,Review_of_Systems,1723 1990,HPI,27 40,1750 1753,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+36901,66409,100470,Hospital_course,8876 11770,ACLS,1773 1787,10649 10653,C0796147 Acrocallosal Syndrome,Orphanet_36  Acrocallosal syndrome,0,1,0
+36901,66409,100470,Hospital_course,8876 11770,ATN,2263 2276,11139 11142,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+36901,66409,100470,History_of_Present_Illness,324 1723,ATN,687 700,1011 1014,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+33893,43305,192925,History_of_Past_Illness,2110 2531,hypogammaglobulinemia,232 263,2342 2363,C0086438 Hypogammaglobulinemia,Orphanet_229717  Isolated agammaglobulinemia,1,0,0
+33893,43305,192925,pertinent_results,3649 5797,OCC,482 495,4131 4134,C0029421 Osteochondrit dissecans,Orphanet_2764  Osteochondritis dissecans,0,1,0
+40395,60424,155222,Review_of_Systems,2740 3155,HPI,27 40,2767 2770,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+40395,60424,155222,History_of_Past_Illness,3155 3401,hyperlipidemia,45 69,3200 3214,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+40395,60424,155222,History_of_Past_Illness,3155 3401,hyperparathyroidism,184 213,3339 3358,C0020502 Hyperparathyroidism,Orphanet_181408  Rare hyperparathyroidism,1,0,0
+40395,60424,155222,Hospital_course,8592 14036,HD,1749 1761,10341 10343,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+40395,60424,155222,Hospital_course,8592 14036,ATN,2383 2396,10975 10978,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+40395,60424,155222,History_of_Present_Illness,399 2740,HD,284 296,683 685,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33909,29560,182407,Discharge_Diagnosis,8525 8679,hyperlipidemia,105 129,8630 8644,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+33909,29560,182407,History_of_Past_Illness,1371 1550,hyperlipidemia,63 87,1434 1448,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+33909,29560,182407,pertinent_results,2259 4400,MR,772 784,3031 3033,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+33909,29560,182407,Hospital_course,4863 7242,HIT,1490 1503,6353 6356,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+33909,29560,182407,Hospital_course,4863 7242,HIT,1555 1568,6418 6421,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+33909,29560,182407,Hospital_course,4863 7242,HIT,1633 1646,6496 6499,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+33909,29560,182407,Hospital_course,4863 7242,HIT,2043 2056,6906 6909,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+34305,28270,153773,History_of_Past_Illness,2254 2874,calciphylaxis,557 580,2811 2824,C0006666 Calciphylaxes,Orphanet_280062  Calciphylaxis,1,1,1
+34305,28270,153773,pertinent_results,4769 6654,pulmonary arterial hypertension,1818 1859,6587 6618,C0152171 Prim pulm hypertension,Orphanet_275766  Idiopathic pulmonary arterial hypertension,1,1,1
+34305,28270,153773,Hospital_course,6654 10278,HD,54 66,6708 6710,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34305,28270,153773,Hospital_course,6654 10278,DM2,58 71,6712 6715,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+34305,28270,153773,Hospital_course,6654 10278,calciphylaxis,151 174,6805 6818,C0006666 Calciphylaxes,Orphanet_280062  Calciphylaxis,1,1,1
+34305,28270,153773,Hospital_course,6654 10278,HD,3075 3087,9729 9731,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34305,28270,153773,Hospital_course,6654 10278,HD,3090 3102,9744 9746,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34305,28270,153773,Hospital_course,6654 10278,HD,3619 3631,10273 10275,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34305,28270,153773,History_of_Present_Illness,377 2254,HD,68 80,445 447,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34305,28270,153773,History_of_Present_Illness,377 2254,DM2,72 85,449 452,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+34305,28270,153773,History_of_Present_Illness,377 2254,calciphylaxis,165 188,542 555,C0006666 Calciphylaxes,Orphanet_280062  Calciphylaxis,1,1,1
+34305,28270,153773,History_of_Present_Illness,377 2254,HD,343 355,720 722,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34316,29433,146826,Discharge_Diagnosis,5781 5842,tracheobronchomalacia,21 52,5802 5823,C0340231 Tracheobronchomalacia,Orphanet_411501  Williams-Campbell syndrome,1,1,1
+34316,29433,146826,History_of_Present_Illness,555 1012,tracheobronchomalacia,176 207,731 752,C0340231 Tracheobronchomalacia,Orphanet_411501  Williams-Campbell syndrome,1,1,1
+36547,64145,109844,Discharge_Medications,13019 15399,ml iv,2283 2298,15302 15307,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+36547,64145,109844,Admission_Medications,12646 13019,IH,59 71,12705 12707,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+36547,64145,109844,Admission_Medications,12646 13019,IH,100 112,12746 12748,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+36547,64145,109844,History_of_Past_Illness,3385 3510,hyperlipidemia,50 74,3435 3449,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+36547,64145,109844,Hospital_course,9378 12430,hyperlipidemia,46 70,9424 9438,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+36547,64145,109844,Hospital_course,9378 12430,MR,892 904,10270 10272,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+36547,64145,109844,Hospital_course,9378 12430,hyperlipidemia,2968 2992,12346 12360,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+36547,64145,109844,Hospital_course,9378 12430,hyperthyroidism,3009 3034,12387 12402,C0020550 hyperthyroid,Orphanet_181399  Rare hyperthyroidism,1,0,0
+36547,64145,109844,History_of_Present_Illness,309 3385,hyperlipidemia,61 85,370 384,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+35307,93404,141261,pertinent_results,1409 6210,ICD,966 979,2375 2378,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+35307,93404,141261,pertinent_results,1409 6210,MR,2818 2830,4227 4229,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+35307,93404,141261,pertinent_results,1409 6210,MR,4266 4278,5675 5677,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+35323,64277,161558,History_of_Present_Illness,360 1656,fulminant hepatic failure,37 72,397 422,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+35323,64277,161558,History_of_Present_Illness,360 1656,HRS,67 80,427 430,C0751781 Haw River Syndrome,Orphanet_101  Dentatorubral pallidoluysian atrophy,0,1,0
+36588,51694,176614,History_of_Past_Illness,1428 1578,dyslipidemia,35 57,1463 1475,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+36588,51694,176614,History_of_Present_Illness,380 1428,dyslipidemia,104 126,484 496,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+34803,28261,118906,Chief_Complaint_and_Reason_for_Visit,2546 5942,ICD,1167 1180,3713 3716,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+34803,28261,118906,Chief_Complaint_and_Reason_for_Visit,2546 5942,MR,3097 3109,5643 5645,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+33429,74503,160967,Hospital_Discharge_Studies,1253 3328,MR,1940 1952,3193 3195,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+33429,74503,160967,Hospital_course,3328 10084,HD,973 985,4301 4303,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33429,74503,160967,Hospital_course,3328 10084,HD,1012 1024,4340 4342,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33429,74503,160967,Hospital_course,3328 10084,HD,1766 1778,5094 5096,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+33429,74503,160967,Hospital_course,3328 10084,HD,3019 3031,6347 6349,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+34485,30994,197775,pertinent_results,3838 9294,HD,3827 3839,7665 7667,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+36977,59473,142357,Discharge_Medications,4755 5774,MG,613 625,5368 5370,C0026896 Myasthenia Gravis,Orphanet_589  Myasthenia gravis,0,1,0
+34385,26748,148121,Discharge_Medications,6336 7672,ml iv,324 339,6660 6665,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+34385,26748,148121,Discharge_Medications,6336 7672,ml iv,1243 1258,7579 7584,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+34385,26748,148121,pertinent_results,2288 4685,OCC,1644 1657,3932 3935,C0029421 Osteochondrit dissecans,Orphanet_2764  Osteochondritis dissecans,0,1,0
+34385,26748,148121,History_of_Present_Illness,408 1052,HPI,28 41,436 439,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+34385,26748,148121,Hospital_Discharge_Physical,1295 1554,WD,75 87,1370 1372,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+34391,54604,126129,History_of_Past_Illness,2904 3138,hyperlipidemia,92 116,2996 3010,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+34391,54604,126129,Hospital_course,10217 21011,CMO,3871 3884,14088 14091,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+34391,54604,126129,History_of_Present_Illness,346 2904,hyperlipidemia,129 153,475 489,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+34832,72163,180686,Review_of_Systems,1477 1602,HPI,27 40,1504 1507,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+34832,72163,180686,Discharge_Medications,10975 13679,ml iv,170 185,11145 11150,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+34832,72163,180686,Discharge_Medications,10975 13679,ml iv,1369 1384,12344 12349,C0238286 Sialolipidoses,Orphanet_578  Mucolipidosis type IV,0,1,0
+34832,72163,180686,Hospital_course,7851 10311,HCP,2264 2277,10115 10118,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+34832,72163,180686,Hospital_course,7851 10311,HCP,2426 2439,10277 10280,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+52501,95676,146292,Hospital_course,19014 22597,HIT,576 589,19590 19593,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,1,1,1
+52501,95676,146292,Hospital_course,19014 22597,HIT,2518 2531,21532 21535,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+52501,95676,146292,History_of_Present_Illness,354 3709,legionella,3046 3066,3400 3410,C0023241 Legionella,Orphanet_549  Legionellosis,0,1,0
+50797,90020,183820,Discharge_Medications,12546 13606,HFA,835 848,13381 13384,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+50797,90020,183820,Discharge_Medications,12546 13606,HFA,856 869,13402 13405,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+50797,90020,183820,Admission_Medications,11272 12546,HFA,194 207,11466 11469,C0015458 ROMBERG DIS,Orphanet_1214  Progressive hemifacial atrophy,0,1,0
+50797,90020,183820,History_of_Past_Illness,2332 3993,hyperlipidemia,880 904,3212 3226,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+50797,90020,183820,Hospital_course,8691 11272,hyperlipidemia,2164 2188,10855 10869,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+51891,95919,120754,Discharge_Diagnosis,8694 8915,hyperlipidemia,103 127,8797 8811,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+51891,95919,120754,History_of_Past_Illness,1076 1328,hyperlipidemia,79 103,1155 1169,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+51891,95919,120754,pertinent_results,2835 6103,MR,2331 2343,5166 5168,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+51891,95919,120754,Hospital_Discharge_Physical,2588 2835,CDI,163 176,2751 2754,C0687720 Vasopressin Deficiency,Orphanet_178029  Central diabetes insipidus,0,1,0
+52841,73068,193819,History_of_Past_Illness,2748 3422,dyslipidemia,63 85,2811 2823,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+52841,73068,193819,Hospital_course,4944 6742,HCP,417 430,5361 5364,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+52841,73068,193819,Hospital_course,4944 6742,HCP,797 810,5741 5744,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+52528,25367,151193,pertinent_results,3509 6724,HIT,3197 3210,6706 6709,C0272285 HIT,Orphanet_3325  Heparin-induced thrombocytopenia,0,1,0
+51061,6891,145953,Discharge_Diagnosis,9870 9960,recurrent fever,30 55,9900 9915,C0035021 Recurrent fever,Orphanet_91547  Relapsing fever,1,1,1
+51061,6891,145953,Discharge_Medications,9221 9802,ICD,370 383,9591 9594,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+50594,99448,101704,impression,4986 6395,MR,1157 1169,6143 6145,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+52206,20720,193253,Discharge_Diagnosis,21246 21312,dyslipidemia,42 64,21288 21300,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+52206,20720,193253,Chief_Complaint_and_Reason_for_Visit,7884 9296,ICD,941 954,8825 8828,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+52206,20720,193253,History_of_Past_Illness,896 1665,MR,482 494,1378 1380,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+52206,20720,193253,History_of_Past_Illness,896 1665,sick sinus syndrome,589 618,1485 1504,C0037052 Sick Sinus Syndrome,Orphanet_166282  Familial sick sinus syndrome,1,0,0
+52206,20720,193253,Hospital_course,17107 19807,HD,881 893,17988 17990,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+52206,20720,193253,Hospital_course,17107 19807,ICD,2044 2057,19151 19154,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+49795,22681,125806,impression,5677 7354,fulminant liver failure,875 908,6552 6575,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+49795,22681,125806,Discharge_Diagnosis,13330 13471,fulminant hepatic failure,21 56,13351 13376,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+49795,22681,125806,Hospital_course,7354 12324,acute hepatic failure,72 103,7426 7447,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+49795,22681,125806,Hospital_course,7354 12324,AMS,179 192,7533 7536,C1860224 AMS,Orphanet_920  Ablepharon macrostomia syndrome,0,1,0
+49795,22681,125806,Hospital_course,7354 12324,fulminant hepatic failure,338 373,7692 7717,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+49795,22681,125806,Hospital_course,7354 12324,fulminant hepatic failure,375 410,7729 7754,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+49795,22681,125806,History_of_Present_Illness,400 3358,fulminant hepatic failure,1993 2028,2393 2418,C0162557 Acute Liver Failure,Orphanet_90062  Acute liver failure,1,1,1
+48221,31953,172493,Discharge_Diagnosis,6689 6929,MR,21 33,6710 6712,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+48221,31953,172493,History_of_Past_Illness,801 929,MR,26 38,827 829,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+48973,28668,181439,History_of_Past_Illness,1881 2556,MR,277 289,2158 2160,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+48973,28668,181439,Hospital_course,4353 6635,NH,341 353,4694 4696,C0268059 Neonatal hemochromatosis,Orphanet_446  Neonatal hemochromatosis,0,1,0
+50316,73713,152792,Admission_Medications,10846 11603,IH,87 99,10933 10935,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+50316,73713,152792,Admission_Medications,10846 11603,IH,154 166,11000 11002,C1856184 Hemihyperplasia,Orphanet_2128  Isolated hemihyperplasia,0,1,0
+49021,9256,170652,History_of_Past_Illness,1275 1528,alport's syndrome,25 52,1300 1317,C1567741 Alport Syndrome,Orphanet_63  Alport syndrome,1,1,1
+49021,9256,170652,History_of_Past_Illness,1275 1528,HD,125 137,1400 1402,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49021,9256,170652,Hospital_course,4369 6694,HD,86 98,4455 4457,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49021,9256,170652,History_of_Present_Illness,388 1275,alport syndrome,39 64,427 442,C1567741 Alport Syndrome,Orphanet_63  Alport syndrome,1,1,1
+49021,9256,170652,History_of_Present_Illness,388 1275,HD,64 76,452 454,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41073,82083,128465,Hospital_Discharge_Instructions,11039 11420,epilepsy,35 53,11074 11082,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+41073,82083,128465,Discharge_Diagnosis,10000 10063,epileptic,51 70,10051 10060,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+41073,82083,128465,Hospital_course,8226 9448,epilepsy,73 91,8299 8307,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+41073,82083,128465,Hospital_course,8226 9448,epileptic seizures,882 910,9108 9126,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+41073,82083,128465,Hospital_course,8226 9448,epilepsy,1155 1173,9381 9389,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+41300,46077,104395,Hospital_course,6620 9775,seizure disorder,1414 1440,8034 8050,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+41300,46077,104395,History_of_Present_Illness,345 1930,epilepsy,176 194,521 529,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+42827,68115,112430,History_of_Past_Illness,1873 2305,dyslipidemia,57 79,1930 1942,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+42827,68115,112430,History_of_Past_Illness,1873 2305,ICD,230 243,2103 2106,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+42827,68115,112430,History_of_Past_Illness,1873 2305,ICD,240 253,2113 2116,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+42827,68115,112430,History_of_Present_Illness,326 1873,ICD,53 66,379 382,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43920,18803,104936,pertinent_results,1621 4326,MR,1478 1490,3099 3101,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+43920,18803,104936,Hospital_Discharge_Physical,1308 1621,SEM,184 197,1492 1495,C0432222 SPENCD,Orphanet_1855  Spondyloenchondrodysplasia,0,1,0
+43909,87533,177276,Discharge_Diagnosis,10058 10475,MR,21 33,10079 10081,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+43909,87533,177276,pertinent_results,2930 8503,ICD,1464 1477,4394 4397,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43909,87533,177276,pertinent_results,2930 8503,MR,3226 3238,6156 6158,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+41335,71869,157803,Hospital_Discharge_Physical,1470 1739,WD,85 97,1555 1557,C0019202 WILSON DIS,Orphanet_905  Wilson disease,0,1,0
+42363,92407,173473,Hospital_course,4991 8312,AIC,1350 1363,6341 6344,C0175713 Aicardi Syndrome,Orphanet_50  Aicardi syndrome,0,1,0
+42363,92407,173473,Hospital_course,4991 8312,AIC,1793 1806,6784 6787,C0175713 Aicardi Syndrome,Orphanet_50  Aicardi syndrome,0,1,0
+43215,10725,175396,History_of_Past_Illness,1536 1904,DM1,82 95,1618 1621,C0027126 STEINERT DIS,Orphanet_206647  Myotonic dystrophy,0,1,0
+43215,10725,175396,Hospital_course,5401 9654,PRP,4152 4165,9553 9556,C0032027 Devergie's disease,Orphanet_2897  Pityriasis rubra pilaris,0,1,0
+41451,79945,181352,admission_condition,1140 1838,TTP,340 353,1480 1483,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,1,1,1
+41451,79945,181352,History_of_Past_Illness,778 975,hyperlipidemia,72 96,850 864,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+41451,79945,181352,Hospital_course,3421 6040,endo,1894 1908,5315 5319,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+42621,46984,114144,History_of_Present_Illness,317 2513,HPI,1620 1633,1937 1940,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+42621,46984,114144,admission_studies,5929 7372,HD,770 782,6699 6701,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+44412,57916,107132,Discharge_Diagnosis,8450 8566,hyperlipidemia,99 123,8549 8563,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+41455,79236,141314,Discharge_Diagnosis,9783 9918,hyperlipidemia,118 142,9901 9915,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+41455,79236,141314,History_of_Past_Illness,1261 1458,hyperlipidemia,144 168,1405 1419,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+41455,79236,141314,pertinent_results,2242 5644,ICD,695 708,2937 2940,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+41455,79236,141314,pertinent_results,2242 5644,MR,3199 3211,5441 5443,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+41466,76084,134653,Discharge_Medications,7630 9081,HD,876 888,8506 8508,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41466,76084,134653,Discharge_Medications,7630 9081,HD,889 901,8519 8521,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41466,76084,134653,Discharge_Medications,7630 9081,nph,1071 1084,8701 8704,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+41466,76084,134653,Hospital_course,2395 7423,endo,3051 3065,5446 5450,C0014175 Endo,Orphanet_137820  Extrapelvic endometriosis,0,0,0
+41466,76084,134653,Hospital_course,2395 7423,NPH,3180 3193,5575 5578,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+43393,17447,120905,Social_History,2853 3201,HPI,185 198,3038 3041,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,140 153,5443 5446,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,186 199,5489 5492,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,313 326,5616 5619,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,414 427,5717 5720,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,528 541,5831 5834,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,Hospital_course,5303 8141,ICD,1015 1028,6318 6321,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,History_of_Present_Illness,247 1466,ICD,98 111,345 348,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,History_of_Present_Illness,247 1466,ICD,192 205,439 442,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43282,32511,141297,History_of_Present_Illness,247 1466,ICD,913 926,1160 1163,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+44246,44166,149440,Discharge_Diagnosis,11555 11652,hyperlipidemia,80 104,11635 11649,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+44246,44166,149440,History_of_Past_Illness,2913 3441,dyslipidemia,64 86,2977 2989,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+44246,44166,149440,History_of_Past_Illness,2913 3441,ICD,176 189,3089 3092,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+44246,44166,149440,Hospital_course,6875 9591,DM1,1977 1990,8852 8855,C0027126 STEINERT DIS,Orphanet_206647  Myotonic dystrophy,0,1,0
+44246,44166,149440,Hospital_course,6875 9591,NPH,2034 2047,8909 8912,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+44246,44166,149440,Hospital_course,6875 9591,hyperlipidemia,2276 2300,9151 9165,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+43611,52934,118805,pertinent_results,1604 4719,ICD,1320 1333,2924 2927,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+43611,52934,118805,pertinent_results,1604 4719,MR,2721 2733,4325 4327,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+51298,4762,159032,History_of_Past_Illness,690 940,DM2,27 40,717 720,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+51298,4762,159032,History_of_Present_Illness,354 690,DM2,42 55,396 399,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+42186,91463,190015,admission_studies,5237 8840,MR,3506 3518,8743 8745,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+42186,91463,190015,History_of_Past_Illness,2995 3575,dyslipidemia,57 79,3052 3064,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+42186,91463,190015,History_of_Past_Illness,2995 3575,ICD,206 219,3201 3204,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+42186,91463,190015,History_of_Past_Illness,2995 3575,hyperlipidemia,380 404,3375 3389,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+43459,75536,118799,Hospital_course,2694 7076,HD,2619 2631,5313 5315,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+43459,75536,118799,Hospital_course,2694 7076,HD,2730 2742,5424 5426,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+43459,75536,118799,Hospital_course,2694 7076,HD,2818 2830,5512 5514,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+43459,75536,118799,Hospital_course,2694 7076,HD,3398 3410,6092 6094,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+43459,75536,118799,Hospital_course,2694 7076,HD,3931 3943,6625 6627,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+43459,75536,118799,Hospital_course,2694 7076,HD,4275 4287,6969 6971,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41991,85700,167988,Review_of_Systems,1995 2462,HPI,27 40,2022 2025,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+41991,85700,167988,Discharge_Diagnosis,11396 11557,epilepsy,109 127,11505 11513,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,1,0,0
+41991,85700,167988,Hospital_course,8141 11183,CMO,385 398,8526 8529,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+41991,85700,167988,Hospital_course,8141 11183,CMO,3036 3049,11177 11180,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+41991,85700,167988,History_of_Present_Illness,322 1995,CMO,1496 1509,1818 1821,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+43823,18585,149038,History_of_Past_Illness,1554 2125,hyperlipidemia,142 166,1696 1710,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+43823,18585,149038,History_of_Past_Illness,1554 2125,MR,534 546,2088 2090,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+41739,65956,189248,History_of_Past_Illness,1390 1591,hemochromatosis,33 58,1423 1438,C0018995 Hemochromatose,Orphanet_220489  Rare hereditary hemochromatosis,1,0,0
+41739,65956,189248,History_of_Past_Illness,1390 1591,hyperlipidemia,150 174,1540 1554,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+42986,81810,147734,History_of_Past_Illness,1508 2293,MR,172 184,1680 1682,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+42986,81810,147734,Social_History,2293 2521,HCP,198 211,2491 2494,C0162531 Porphyria hepatica II,Orphanet_79273  Hereditary coproporphyria,0,1,0
+50417,8231,101216,Chief_Complaint_and_Reason_for_Visit,264 373,HD,87 99,351 353,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+50417,8231,101216,pertinent_results,4617 9063,HD,4043 4055,8660 8662,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+50417,8231,101216,Hospital_course,9063 11992,HD,97 109,9160 9162,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+50417,8231,101216,Hospital_course,9063 11992,HD,1456 1468,10519 10521,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+50417,8231,101216,History_of_Present_Illness,585 2240,HD,753 765,1338 1340,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+50417,8231,101216,History_of_Present_Illness,585 2240,HD,1390 1402,1975 1977,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+41237,86191,143142,History_of_Present_Illness,518 1525,NH,221 233,739 741,C0268059 Neonatal hemochromatosis,Orphanet_446  Neonatal hemochromatosis,0,1,0
+53850,97828,123071,interpretation,6366 9837,HD,588 600,6954 6956,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+53850,97828,123071,interpretation,6366 9837,HD,1150 1162,7516 7518,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+53850,97828,123071,History_of_Past_Illness,1558 1702,hyperlipidemia,35 59,1593 1607,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+53850,97828,123071,Hospital_course,16299 20611,DM2,98 111,16397 16400,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+53850,97828,123071,Hospital_course,16299 20611,DM2,3065 3078,19364 19367,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+53850,97828,123071,History_of_Present_Illness,358 1558,DM2,113 126,471 474,C2931689 Ricker Syndrome,Orphanet_606  Proximal myotonic myopathy,0,1,0
+54806,97008,162487,Hospital_course,9275 15687,hyperlipidemia,113 137,9388 9402,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+54806,97008,162487,Hospital_course,9275 15687,ICD,164 177,9439 9442,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+54806,97008,162487,History_of_Present_Illness,1026 4053,ICD,106 119,1132 1135,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+54806,97008,162487,History_of_Present_Illness,1026 4053,DSS,1226 1239,2252 2255,C0011195 HMSN III,Orphanet_64748  Dejerine-Sottas syndrome,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,CMO,1432 1445,5854 5857,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,HD,1442 1454,5864 5866,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,HD,2003 2015,6425 6427,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,ATN,2052 2065,6474 6477,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,CMO,2145 2158,6567 6570,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,HD,2434 2446,6856 6858,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,CMO,2463 2476,6885 6888,C0410422 CMO,Orphanet_324964  Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0,1,0
+54100,87728,180726,Hospital_course,4422 7761,HD,2811 2823,7233 7235,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+53929,81715,165402,pertinent_results,2519 5378,MR,1383 1395,3902 3904,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+54929,94757,124958,Discharge_Diagnosis,9260 9421,hyperlipidemia,129 153,9389 9403,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+54929,94757,124958,pertinent_results,3266 5677,MR,947 959,4213 4215,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+54929,94757,124958,Hospital_course,5677 7465,hyperlipidemia,89 113,5766 5780,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+54937,78515,196984,Chief_Complaint_and_Reason_for_Visit,1478 1915,ttp,293 306,1771 1774,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,1,1,1
+54937,78515,196984,Chief_Complaint_and_Reason_for_Visit,1478 1915,ttp,311 324,1789 1792,C0034155 Moschowitz Disease,Orphanet_54057  Thrombotic thrombocytopenic purpura,1,1,1
+54135,46120,124225,pertinent_results,3474 8677,HD,2975 2987,6449 6451,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49532,7142,119817,Discharge_Diagnosis,4691 4951,primary sclerosing cholangitis,141 181,4832 4862,C0566602 Sclerosing Cholangitis,Orphanet_171  Primary sclerosing cholangitis,1,1,1
+49532,7142,119817,facility,121 760,primary sclerosing cholangitis,156 196,277 307,C0566602 Sclerosing Cholangitis,Orphanet_171  Primary sclerosing cholangitis,1,1,1
+49532,7142,119817,History_of_Past_Illness,760 1013,primary sclerosing cholangitis,50 90,810 840,C0566602 Sclerosing Cholangitis,Orphanet_171  Primary sclerosing cholangitis,1,1,1
+49955,61348,173407,Hospital_Discharge_Studies,3837 6486,pulmonary arterial hypertension,515 556,4352 4383,C0152171 Prim pulm hypertension,Orphanet_275766  Idiopathic pulmonary arterial hypertension,1,1,1
+49955,61348,173407,pertinent_results,3170 3837,OCC,347 360,3517 3520,C0029421 Osteochondrit dissecans,Orphanet_2764  Osteochondritis dissecans,0,1,0
+49955,61348,173407,Hospital_course,6610 10758,primary adrenal insufficiency,1021 1060,7631 7660,C0001403 ADDISON DIS,Orphanet_85138  Addison disease,0,1,0
+55265,25016,102057,Discharge_Diagnosis,5047 5588,hyperlipidemia,238 262,5285 5299,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47884,2941,105637,Hospital_course,6724 11265,MR,2522 2534,9246 9248,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+47884,2941,105637,Hospital_course,6724 11265,MR,3391 3403,10115 10117,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+48587,91601,194397,History_of_Past_Illness,2991 3782,hyperlipidemia,483 507,3474 3488,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+48587,91601,194397,pertinent_results,5048 11052,ICD,1386 1399,6434 6437,C0020725 I CELL DIS,Orphanet_576  Mucolipidosis type II,0,1,0
+48587,91601,194397,pertinent_results,5048 11052,MR,3958 3970,9006 9008,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+49135,21990,102675,History_of_Past_Illness,1600 1860,HD,36 48,1636 1638,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49135,21990,102675,Hospital_course,4733 6413,HD,52 64,4785 4787,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49135,21990,102675,History_of_Present_Illness,299 1600,HD,52 64,351 353,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49135,21990,102675,History_of_Present_Illness,299 1600,HD,480 492,779 781,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49135,21990,102675,History_of_Present_Illness,299 1600,HD,681 693,980 982,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49135,21990,102675,History_of_Present_Illness,299 1600,HD,747 759,1046 1048,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+47713,69433,174646,History_of_Past_Illness,2045 2399,hyperlipidemia,100 124,2145 2159,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47713,69433,174646,History_of_Past_Illness,2045 2399,pulmonary arterial hypertension,117 158,2162 2193,C0152171 Prim pulm hypertension,Orphanet_275766  Idiopathic pulmonary arterial hypertension,1,1,1
+47713,69433,174646,History_of_Past_Illness,2045 2399,hyperparathyroidism,185 214,2230 2249,C0020502 Hyperparathyroidism,Orphanet_181408  Rare hyperparathyroidism,0,0,0
+47713,69433,174646,Hospital_course,4042 9278,NPH,2259 2272,6301 6304,C0020258 Nph,Orphanet_314928  Normal pressure hydrocephalus,0,1,0
+47713,69433,174646,Hospital_course,4042 9278,hyperlipidemia,4247 4271,8289 8303,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47713,69433,174646,Hospital_course,4042 9278,hyperparathyroidism,4296 4325,8338 8357,C0020502 Hyperparathyroidism,Orphanet_181408  Rare hyperparathyroidism,1,0,0
+49482,12849,142517,History_of_Past_Illness,1026 3839,crest syndrome,26 50,1052 1066,"C0206138 Syndrome, CREST",Orphanet_90290  CREST syndrome,1,1,1
+49482,12849,142517,History_of_Past_Illness,1026 3839,crest syndrome,2768 2792,3794 3808,"C0206138 Syndrome, CREST",Orphanet_90290  CREST syndrome,1,1,1
+49482,12849,142517,basic,0 1026,crest syndrome,221 245,221 235,"C0206138 Syndrome, CREST",Orphanet_90290  CREST syndrome,1,1,1
+49482,12849,142517,basic,0 1026,PAH,752 765,752 755,C3203102 PAH,Orphanet_275766  Idiopathic pulmonary arterial hypertension,1,1,1
+48386,2116,170769,History_of_Past_Illness,1340 1867,multifocal atrial tachycardia,411 450,1751 1780,C0221158 Ectopic atrial tachycardia,Orphanet_3282  Multifocal atrial tachycardia,1,1,1
+48652,52593,148720,pertinent_results,1866 3474,legionella,1350 1370,3216 3226,C0023241 Legionella,Orphanet_549  Legionellosis,0,1,0
+48652,52593,148720,Hospital_course,3474 6841,legionella,488 508,3962 3972,C0023241 Legionella,Orphanet_549  Legionellosis,0,1,0
+48652,52593,148720,Hospital_course,3474 6841,HD,1582 1594,5056 5058,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+48652,52593,148720,Hospital_course,3474 6841,HD,2050 2062,5524 5526,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+48652,52593,148720,History_of_Present_Illness,515 1059,ATN,89 102,604 607,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+48652,52593,148720,Procedures,311 515,HD,185 197,496 498,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+49514,18544,125442,Discharge_Diagnosis,8393 8817,polymyalgia rheumatica,126 158,8519 8541,C0039483 HORTON DIS,Orphanet_397  Giant cell arteritis,1,1,1
+49514,18544,125442,basic,0 7403,her disease,953 974,953 964,C0017925 Her Disease,Orphanet_369  Glycogen storage disease due to liver glycogen phosphorylase deficiency,0,1,0
+49514,18544,125442,basic,0 7403,polymyalgia rheumatica,1437 1469,1437 1459,C0039483 HORTON DIS,Orphanet_397  Giant cell arteritis,1,1,1
+49519,12589,156344,Discharge_Diagnosis,8716 8776,hyperlipidemia,43 67,8759 8773,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+49519,12589,156344,History_of_Past_Illness,1580 1641,hyperlipidemia,44 68,1624 1638,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47233,40975,106750,Discharge_Diagnosis,7483 7511,hyperlipidemia,11 35,7494 7508,C0020473 Lipidemia,Orphanet_181422  Rare hyperlipidemia,1,0,0
+47233,40975,106750,History_of_Past_Illness,1959 2180,dyslipidemia,47 69,2006 2018,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+47233,40975,106750,Hospital_course,5217 6154,dyslipidemia,739 761,5956 5968,C0242339 Dyslipidemia,Orphanet_101953  Rare dyslipidemia,1,0,0
+47759,4467,107451,Hospital_Discharge_Studies,2580 4054,MR,189 201,2769 2771,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+53382,13877,172753,Discharge_Diagnosis,8385 8454,budd-chiari syndrome,21 51,8406 8426,C0019154 Hepatic Vein Thromboses,Orphanet_131  Budd-Chiari syndrome,1,0,0
+53382,13877,172753,Discharge_Diagnosis,8385 8454,essential thrombocythemia,42 77,8427 8452,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53382,13877,172753,History_of_Past_Illness,1124 2299,essential thrombocytosis,416 450,1540 1564,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53382,13877,172753,History_of_Past_Illness,1124 2299,essential thrombocytosis,573 607,1697 1721,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53382,13877,172753,History_of_Past_Illness,1124 2299,ABL,716 729,1840 1843,C0000744 Acanthocytoses,Orphanet_14  Abetalipoproteinemia,0,1,0
+53382,13877,172753,Hospital_course,5979 7874,essential thrombocythemia,40 75,6019 6044,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53382,13877,172753,Hospital_course,5979 7874,essential thrombocythemia,1168 1203,7147 7172,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53382,13877,172753,Hospital_course,5979 7874,budd chiari syndrome,1785 1815,7764 7784,C0019154 Hepatic Vein Thromboses,Orphanet_131  Budd-Chiari syndrome,0,0,0
+53382,13877,172753,History_of_Present_Illness,382 1124,essential thrombocythemia,73 108,455 480,C0040028 Primary Thrombocytoses,Orphanet_3318  Essential thrombocythemia,1,1,1
+53401,22714,172150,facility,73 7613,MR,1820 1832,1893 1895,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+53406,58433,100415,Hospital_course,6548 9907,epileptic seizure,2962 2989,9510 9527,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+53406,58433,100415,Hospital_course,6548 9907,seizure disorder,2972 2998,9520 9536,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+53406,58433,100415,History_of_Present_Illness,470 2454,MR,89 101,559 561,C0311284 Lipoid dermatoarthritis,Orphanet_139436  Multicentric reticulohistiocytosis,0,1,0
+53406,58433,100415,History_of_Present_Illness,470 2454,epileptic,110 129,580 589,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+53406,58433,100415,History_of_Present_Illness,470 2454,epileptic,1070 1089,1540 1549,C0014544 Epilepsy,Orphanet_101998  Rare epilepsy,0,0,0
+53406,58433,100415,History_of_Present_Illness,470 2454,HPI,1823 1836,2293 2296,C0268529 Hyperprolinemia type I,Orphanet_419  Hyperprolinemia type 1,0,1,0
+53666,77847,139188,interpretation,2586 4484,HD,754 766,3340 3342,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+53666,77847,139188,History_of_Present_Illness,412 1907,HD,915 927,1327 1329,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+53691,4397,148677,Hospital_course,3630 9169,ATN,3949 3962,7579 7582,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+53691,4397,148677,basic,0 3630,ATN,1974 1987,1974 1977,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+53691,4397,148677,basic,0 3630,calciphylaxis,2018 2041,2018 2031,C0006666 Calciphylaxes,Orphanet_280062  Calciphylaxis,1,1,1
+53691,4397,148677,basic,0 3630,ATN,2425 2438,2425 2428,C0268494 Albinism I,Orphanet_352731  Oculocutaneous albinism type 1,0,1,0
+56120,50968,183723,Discharge_Medications,1299 2229,MG,70 82,1369 1371,C0026896 Myasthenia Gravis,Orphanet_589  Myasthenia gravis,0,1,0
+57326,26212,127244,interpretation,381 938,HD,118 130,499 501,C0020179 Huntington Chorea,Orphanet_399  Huntington disease,0,1,0
+59366,4910,151003,Discharge_Medications,2483 3548,multifocal atrial tachycardia,651 690,3134 3163,C0221158 Ectopic atrial tachycardia,Orphanet_3282  Multifocal atrial tachycardia,1,1,1
+59366,4910,151003,basic,0 2483,multifocal atrial tachycardia,575 614,575 604,C0221158 Ectopic atrial tachycardia,Orphanet_3282  Multifocal atrial tachycardia,1,1,1
