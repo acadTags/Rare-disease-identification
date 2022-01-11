@@ -1,12 +1,12 @@
 ## Data annotation
 
-### The 1,073 full rare disease mention annotations (from 312 MIMIC-III *discharge summaries*) are in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
+The 1,073 full rare disease mention annotations (from 312 MIMIC-III *discharge summaries*) are in [`full_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/full_set_RD_ann_MIMIC_III_disch.csv).
 
 The data split:
 * the first 400 rows are used for validation, [`validation_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
 * the last 673 rows are used for testing, [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
 
-### The 198 rare disease mention annotations (from 145 MIMIC-III *radiology reports*) are in [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_rad.csv). To note that radiology reports were only used for testing and not for validation.
+The 198 rare disease mention annotations (from 145 MIMIC-III *radiology reports*) are in [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_rad.csv). To note that radiology reports were only used for testing and not for validation.
 
 ## Data sampling and annotation procedure
 * (i) Randomly sampled 500 discharge summaries (and 1000 radiology reports) from MIMIC-III
