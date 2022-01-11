@@ -1,0 +1,225 @@
+ROW_ID,SUBJECT_ID,HADM_ID,mention,mention offset in full document,UMLS with desc,ORDO with desc,gold text-to-UMLS label,gold UMLS-to-ORDO label,gold text-to-ORDO label
+741313,4316,136216.0,down's syndrome,293 308,C0013080 Mongol,Orphanet_870 Down syndrome,1,1,1
+741313,4316,136216.0,down's syndrome,567 582,C0013080 Mongol,Orphanet_870 Down syndrome,1,1,1
+746037,16564,142725.0,ET,1177 1179,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+753876,16525,134157.0,ET,905 907,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+752774,7805,130406.0,cysticercosis,1385 1398,C0010678 Cysticercoses,Orphanet_1560 Cysticercosis,1,1,1
+752774,7805,130406.0,cysticercosis,1781 1794,C0010678 Cysticercoses,Orphanet_1560 Cysticercosis,1,1,1
+762760,21306,137814.0,dilated cardiomyopathy,694 716,C0007193 Dilated Cardiomyopathy,Orphanet_217604 Dilated cardiomyopathy,1,1,1
+762760,21306,137814.0,dilated cardiomyopathy,306 328,C0007193 Dilated Cardiomyopathy,Orphanet_217604 Dilated cardiomyopathy,1,1,1
+761467,9699,146513.0,ET,643 645,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+764777,4377,176842.0,ET,662 664,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+767215,22089,165231.0,hyaline membrane disease,750 775,C0020192 newborn rds,Orphanet_70587 Infant acute respiratory distress syndrome,1,1,1
+774341,22921,119313.0,CAR,206 209,C0406810 Carney Complex,Orphanet_1359 Carney complex,0,1,0
+774341,22921,119313.0,CAR,3055 3058,C0406810 Carney Complex,Orphanet_1359 Carney complex,0,1,0
+779056,15394,139539.0,ET,1126 1128,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+781022,1000,143040.0,amyloidosis,674 685,C0002726 Amyloidoses,Orphanet_69 Amyloidosis,1,1,1
+781022,1000,143040.0,amyloidosis,367 378,C0002726 Amyloidoses,Orphanet_69 Amyloidosis,1,1,1
+788288,18733,189647.0,ET,646 648,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+794252,7284,,west,1505 1509,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+802577,12094,159567.0,best,975 979,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+814576,14265,150537.0,ET,662 664,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+814576,14265,150537.0,ET,1022 1024,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+817597,2399,158135.0,seizure disorder,625 641,C0014544 Epilepsy,Orphanet_101998 Rare epilepsy,1,0,0
+816933,26003,198073.0,ET,1270 1272,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+816933,26003,198073.0,ET,762 764,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+801822,14386,128762.0,pulmonary arterial hypertension,1127 1158,C3203102 PAH,Orphanet_275766 Idiopathic pulmonary arterial hypertension,1,1,1
+817439,19970,117319.0,ET,661 663,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+821869,16847,178850.0,bullous pemphigoid,328 346,C0030805 Pemphigoid,Orphanet_703 Bullous pemphigoid,1,1,1
+821869,16847,178850.0,west,2147 2151,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+832226,5316,130867.0,hyaline membrane disease,993 1017,C0020192 newborn rds,Orphanet_70587 Infant acute respiratory distress syndrome,1,1,1
+830144,8982,192942.0,hyaline membrane disease,751 775,C0020192 newborn rds,Orphanet_70587 Infant acute respiratory distress syndrome,1,1,1
+822907,12661,154035.0,ET,831 833,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+822544,22059,176211.0,sarcoidosis,392 403,C0036202 Sarcoid,Orphanet_797 Sarcoidosis,1,1,1
+822544,22059,176211.0,sarcoidosis,764 775,C0036202 Sarcoid,Orphanet_797 Sarcoidosis,1,1,1
+820482,7170,138280.0,ET,728 730,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+832362,9911,180751.0,hyaline membrane disease,1951 1975,C0020192 newborn rds,Orphanet_70587 Infant acute respiratory distress syndrome,1,1,1
+841973,10231,196141.0,ET,983 985,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+841973,10231,196141.0,ET,997 999,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+845950,10615,194989.0,ET,948 950,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+863040,9803,196433.0,ET,681 683,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+863040,9803,196433.0,ET,877 879,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+871490,10041,168954.0,ET,591 593,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+874353,24459,158282.0,ET,936 938,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+870789,19729,179519.0,ET,866 868,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+877048,5339,193578.0,ET,1187 1189,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+861914,22855,133770.0,frank,1175 1180,C0398650 Werlhof,Orphanet_3002 Immune thrombocytopenic purpura,0,1,0
+883939,6700,,portal vein thrombosis,422 444,C0155773 Pylethrombosis,Orphanet_854 Primitive portal vein thrombosis,0,1,0
+883939,6700,,portal vein thrombosis,166 188,C0155773 Pylethrombosis,Orphanet_854 Primitive portal vein thrombosis,0,1,0
+894684,21312,150854.0,seizure disorder,405 421,C0014544 Epilepsy,Orphanet_101998 Rare epilepsy,1,0,0
+894684,21312,150854.0,seizure disorder,773 789,C0014544 Epilepsy,Orphanet_101998 Rare epilepsy,1,0,0
+895520,25538,175395.0,sarcoid,1260 1267,C0036202 Sarcoid,Orphanet_797 Sarcoidosis,0,1,0
+889871,3107,,best,3606 3610,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+889275,8079,155811.0,ET,703 705,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+896559,11572,,ICD,202 205,C0020725 I CELL DIS,Orphanet_576 Mucolipidosis type II,0,1,0
+900921,20064,,best,3049 3053,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+898737,21312,150854.0,seizure disorder,394 410,C0014544 Epilepsy,Orphanet_101998 Rare epilepsy,1,0,0
+881900,20069,156229.0,MD,4312 4316,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+911170,4904,169215.0,ET,599 601,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+911170,4904,169215.0,ET,1187 1189,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+915046,17564,153774.0,RP,157 159,C0035334 Retinitis Pigmentosa,Orphanet_791 Retinitis pigmentosa,0,1,0
+915046,17564,153774.0,RP,574 576,C0035334 Retinitis Pigmentosa,Orphanet_791 Retinitis pigmentosa,0,1,0
+915046,17564,153774.0,RP,3087 3089,C0035334 Retinitis Pigmentosa,Orphanet_791 Retinitis pigmentosa,0,1,0
+912906,25574,,west,3205 3209,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+910741,11766,,INCL,204 204,C0268281 Santavuori Disease,Orphanet_79263 Infantile neuronal ceroid lipofuscinosis,0,1,0
+919631,18782,,SLE,467 470,C0014060 St Louis encephalitis,Orphanet_83484 St. Louis encephalitis,0,1,0
+921812,22438,,WS,181 183,C0043119 Werner,Orphanet_902 Werner syndrome,0,1,0
+932240,17961,157403.0,MD,984 986,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+936023,115,114585.0,MD,229 231,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+936023,115,114585.0,MD,745 747,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+944474,690,135389.0,hsv encephalitis,695 711,C0276226 Encephalitis herpes,Orphanet_1930 Herpes simplex virus encephalitis,1,1,1
+944474,690,135389.0,hsv encephalitis,381 397,C0276226 Encephalitis herpes,Orphanet_1930 Herpes simplex virus encephalitis,1,1,1
+939932,21853,,west,1352 1356,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+927922,19443,119431.0,best,1091 1095,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+922449,831,185983.0,NH,307 309,C0268059 Neonatal Hemochromatosis,Orphanet_446 Neonatal hemochromatosis,0,1,0
+927669,26274,,best,2426 2430,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+957597,23040,186401.0,adrenal hyperplasia,5233 5252,C0001627 Adrenal Hyperplasia,Orphanet_418 Congenital adrenal hyperplasia,1,1,1
+958694,16149,193226.0,ET,934 936,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+958694,16149,193226.0,ET,1698 1700,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+956497,1117,189656.0,ET,922 924,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+954521,15278,,MD,935 937,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+954521,15278,,MD,953 955,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+954521,15278,,MD,961 963,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+969416,1135,,PLS,163 166,C0030360 Papillon Lefevre Disease,Orphanet_678 Papillon-Lefèvre syndrome,0,1,0
+968005,17384,118828.0,ET,742 744,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+946281,15716,158787.0,WS,395 397,C0043119 Werner,Orphanet_902 Werner syndrome,0,1,0
+976136,23752,197841.0,best,2828 2832,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+973423,518,107636.0,ET,879 881,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+964443,1187,,west,3051 3055,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+962599,339,,pulmonary arterial hypertension,3079 3111,C3203102 PAH,Orphanet_275766 Idiopathic pulmonary arterial hypertension,1,1,1
+993258,28455,191845.0,stress cardiomyopathy,385 406,C1739395 Takotsubo Syndrome,Orphanet_66529 Tako-Tsubo cardiomyopathy,1,1,1
+993927,14256,195174.0,wolfram syndrome,621 637,C0043207 DIDMOAD,Orphanet_3463 Wolfram syndrome,1,1,1
+982013,27695,182483.0,hyperlipidemia,409 423,C0020473 Lipidemia,Orphanet_181422 Rare hyperlipidemia,1,0,0
+981482,29836,119239.0,ET,808 810,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+988890,2554,,MD,938 940,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+988890,2554,,MD,961 963,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+970998,27672,184680.0,ET,762 764,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1003965,27174,198736.0,normal pressure hydrocephalus,1500 1530,C0020258 Hakim Syndrome,Orphanet_314928 Normal pressure hydrocephalus,1,1,1
+985810,32529,148697.0,ET,734 736,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+998988,29045,,HIT,180 183,C0272285 HIT,Orphanet_3325 Heparin-induced thrombocytopenia,1,1,1
+998988,29045,,HIT,254 254,C0272285 HIT,Orphanet_3325 Heparin-induced thrombocytopenia,1,1,1
+1011739,29514,111544.0,ET,559 561,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1030508,31062,,FA,79 81,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1022044,31813,169535.0,legionella pneumonia,679 699,C0023241 Legionella,Orphanet_549 Legionellosis,1,1,1
+1022044,31813,169535.0,legionella,340 350,C0023241 Legionella,Orphanet_549 Legionellosis,1,1,1
+1018286,7299,,charcot disease,569 584,C0002736 GEHRIGS DIS,Orphanet_803 Amyotrophic lateral sclerosis,1,1,1
+1018406,31813,169535.0,legionella,345 355,C0023241 Legionella,Orphanet_549 Legionellosis,1,1,1
+1033712,1106,188969.0,MD,227 227,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+1033556,27449,,hyperlipidemia,347 361,C0020473 Lipidemia,Orphanet_181422 Rare hyperlipidemia,1,0,0
+1029009,59726,,FA,71 73,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1045020,99817,195557.0,FA,93 95,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1042074,29433,102735.0,FA,80 82,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1041812,26980,,WS,182 184,C0043119 Werner,Orphanet_902 Werner syndrome,0,1,0
+1041812,26980,,WS,3034 3036,C0043119 Werner,Orphanet_902 Werner syndrome,0,1,0
+1059985,23100,,TTP,321 324,C0034155 Moschcowitz,Orphanet_54057 Thrombotic thrombocytopenic purpura,1,1,1
+1048426,73579,159680.0,FA,74 76,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1048800,73190,157524.0,ET,161 163,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,1,1,1
+1051647,54894,135472.0,FA,120 122,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1049323,57171,122863.0,FA,76 78,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1037488,32425,148075.0,FA,80 82,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1035792,88081,113344.0,ET,978 980,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1036820,29985,168682.0,best,1055 1059,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+1069246,60947,181779.0,ET,163 165,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1069246,60947,181779.0,ET,446 448,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1058812,44592,137065.0,ET,669 671,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,634 636,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,755 757,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,164 166,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,358 360,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,395 397,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1087951,79594,114465.0,ET,450 452,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1089804,59067,,FA,74 76,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1103034,64457,179807.0,best,2612 2616,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+1101798,52919,132862.0,ET,693 695,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1100632,31136,,cross,2247 2252,C2936910 Cross,"Orphanet_2719 Oculocerebral hypopigmentation syndrome, Cross ...",0,1,0
+1103527,94306,105139.0,ET,858 860,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1103087,81543,117993.0,ET,597 599,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1103087,81543,117993.0,ET,641 643,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1096711,45753,175791.0,ET,713 715,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1100034,54229,165594.0,DM2,385 388,C2931689 Ricker disease,Orphanet_606 Proximal myotonic myopathy,0,1,0
+1083194,51613,131359.0,best,1043 1047,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+1083542,81865,100215.0,seizure disorder,390 406,C0014544 Epilepsy,Orphanet_101998 Rare epilepsy,1,0,0
+1108863,98256,185110.0,ET,1012 1014,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1105534,58702,114246.0,ET,815 817,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1106768,74562,133835.0,ET,386 388,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1106768,74562,133835.0,ET,144 146,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1130929,81973,195451.0,ET,990 992,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1135281,62917,,best,1141 1145,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+1153028,77527,,romberg,333 340,C0015458 Romberg,Orphanet_1214 Progressive hemifacial atrophy,0,1,0
+1149914,96804,162633.0,acute interstitial pneumonitis,4282 4312,C1279945 Acute interstitial pneum,Orphanet_79126 Acute interstitial pneumonia,1,1,1
+1149914,96804,162633.0,acute interstitial pneumonitis,810 840,C1279945 Acute interstitial pneum,Orphanet_79126 Acute interstitial pneumonia,1,1,1
+1140761,43150,122400.0,ET,170 172,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1140761,43150,122400.0,ET,461 463,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1144302,53739,174268.0,ET,1342 1344,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1144302,53739,174268.0,west,278 282,C0037769 West,Orphanet_3451 West syndrome,0,1,0
+1144302,53739,174268.0,ET,161 163,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1144302,53739,174268.0,ET,429 431,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1144302,53739,174268.0,ET,506 508,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1144302,53739,174268.0,ET,717 719,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1132077,22936,174504.0,ET,1804 1806,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1170164,1186,104140.0,sarcoid,355 362,C0036202 Sarcoid,Orphanet_797 Sarcoidosis,1,1,1
+1171269,48872,,FA,99 101,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1163372,65558,174246.0,FA,101 103,C0015625 Fanconi Anemia,Orphanet_84 Fanconi anemia,0,1,0
+1161045,30561,110032.0,ET,828 830,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1161045,30561,110032.0,ET,625 627,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1159577,98864,141667.0,MDS,678 681,C0265219 Lissencephaly syndrome,Orphanet_531 Miller-Dieker syndrome,0,1,0
+1174190,60136,193313.0,ET,602 604,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1167979,98000,149803.0,ml iv,778 783,C0238286 Sialolipidoses,Orphanet_578 Mucolipidosis type IV,0,1,0
+1164749,59381,159491.0,fulminant hepatic failure,2317 2342,C0162557 Acute Liver Failure,Orphanet_90062 Acute liver failure,1,1,1
+1164749,59381,159491.0,acute liver failure,225 244,C0162557 Acute Liver Failure,Orphanet_90062 Acute liver failure,1,1,1
+1164749,59381,159491.0,acute liver failure,1334 1353,C0162557 Acute Liver Failure,Orphanet_90062 Acute liver failure,1,1,1
+1164749,59381,159491.0,fulminant hepatic failure,1525 1550,C0162557 Acute Liver Failure,Orphanet_90062 Acute liver failure,1,1,1
+1164749,59381,159491.0,acute liver failure,4093 4112,C0162557 Acute Liver Failure,Orphanet_90062 Acute liver failure,1,1,1
+1152923,68579,194906.0,ET,688 690,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1154362,95457,125284.0,ET,740 742,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1200315,65750,198238.0,MD,273 273,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+1200315,65750,198238.0,MD,273 273,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+1200562,31336,,FXS,245 248,C0016667 Fra(X) Syndrome,Orphanet_908 Fragile X syndrome,0,1,0
+1178362,93088,106473.0,ET,731 733,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1176644,70427,142727.0,ET,710 712,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1223667,52972,,MD,2641 2643,C0026850 Myodystrophy,"Orphanet_98473
+http://www.orpha.net/ORDO/Orphanet_97242            Muscular dystrophy
+Congenital muscular dystrophy",0,1,0
+1206698,42929,,primary sclerosing cholangitis,807 837,C0566602 Sclerosing Cholangitis,Orphanet_171 Primary sclerosing cholangitis,1,1,1
+1206698,42929,,primary sclerosing cholangitis,3485 3515,C0566602 Sclerosing Cholangitis,Orphanet_171 Primary sclerosing cholangitis,1,1,1
+1206698,42929,,primary sclerosing cholangitis,413 443,C0566602 Sclerosing Cholangitis,Orphanet_171 Primary sclerosing cholangitis,1,1,1
+1216569,59870,,best,1190 1194,C0339510 Best Disease,Orphanet_1243 Best vitelliform macular dystrophy,0,1,0
+1185698,76186,111646.0,ICD,273 276,C0020725 I CELL DIS,Orphanet_576 Mucolipidosis type II,0,1,0
+1249107,58377,178345.0,ET,747 749,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1244467,43392,145700.0,ET,1053 1055,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1239884,49999,,pulmonary arterial hypertension,1038 1069,C3203102 PAH,Orphanet_275766 Idiopathic pulmonary arterial hypertension,1,1,1
+1239884,49999,,pulmonary arterial hypertension,1350 1381,C3203102 PAH,Orphanet_275766 Idiopathic pulmonary arterial hypertension,1,1,1
+1232782,99995,137810.0,ET,796 798,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1229561,87980,134143.0,ET,1213 1215,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1231453,62974,176174.0,ET,746 748,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1231453,62974,176174.0,ET,1281 1283,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1231453,62974,176174.0,ET,1817 1819,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1248886,46415,156837.0,legionella pneumonia,706 726,C0023241 Legionella,Orphanet_549 Legionellosis,1,1,1
+1248886,46415,156837.0,legionella,348 358,C0023241 Legionella,Orphanet_549 Legionellosis,1,1,1
+1207895,95354,177307.0,ET,724 726,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1229934,81167,175481.0,ET,624 626,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
+1229934,81167,175481.0,ET,1136 1138,C0040028 Primary Thrombocytoses,Orphanet_3318 Essential thrombocythemia,0,1,0
