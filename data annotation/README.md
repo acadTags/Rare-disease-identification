@@ -6,7 +6,7 @@ The data split:
 * the first 400 rows are used for validation, [`validation_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/validation_set_RD_ann_MIMIC_III_disch.csv), and
 * the last 673 rows are used for testing, [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_disch.csv).
 
-The 198 rare disease mention annotations (from 145 MIMIC-III **radiology reports**) are in [`test_set_RD_ann_MIMIC_III_disch.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_rad.csv). To note that radiology reports were only used for testing and not for validation.
+The 198 rare disease mention annotations (from 145 MIMIC-III **radiology reports**) are in [`test_set_RD_ann_MIMIC_III_rad.csv`](https://github.com/acadTags/Rare-disease-identification/blob/main/data%20annotation/test_set_RD_ann_MIMIC_III_rad.csv). To note that radiology reports were only used for testing and not for validation.
 
 **To note**: a row can only be consider a true phenotype of the patient only when the value of the column **gold mention-to-ORDO label** is 1.
 
