@@ -28,7 +28,7 @@ The annotations of rare disease mentions created from this research are availabl
     * UMLS to ICD-9-CM https://bioportal.bioontology.org/ontologies/ICD9CM
 
 ## Acknowledgement
-This work was carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [EdiE-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
+This work has been carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [EdiE-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
 
 Acknowledgement to the icons used: 
 * MIMIC icon from https://mimic.physionet.org/
