@@ -19,10 +19,10 @@ The process to create weakly labelled data with contextual representation is ill
 ## Rare disease mention annotations
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
-## Implementation notes
+## Implementation sources
 * SemEHR can be installed from https://github.com/CogStack/CogStack-SemEHR
-* BlueBERT models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-24_H-1024_A-16
-* 
+* BlueBERT (Base, Uncased, PubMed+MIMIC-III) models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12
+* Ontology matching: ICD-10 to ICD-9 https://www.health.govt.nz/nz-health-statistics/data-references/mapping-tools/mapping-between-icd-10-and-icd-9; UMLS to ICD-9-CM https://bioportal.bioontology.org/ontologies/ICD9CM
 
 ## Acknowledgement
 This work is carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [EdiE-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
