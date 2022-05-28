@@ -20,13 +20,13 @@ The process to create weakly labelled data with contextual representation is ill
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Implementation sources
+* Main packages: See `requirement.txt` for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
 * SemEHR can be installed from https://github.com/CogStack/CogStack-SemEHR
 * BlueBERT (Base, Uncased, PubMed+MIMIC-III) models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12
 * Ontology matching: 
     * ORDO to ICD-10 or UMLS https://www.ebi.ac.uk/ols/ontologies/ordo; 
     * ICD-10 to ICD-9 https://www.health.govt.nz/nz-health-statistics/data-references/mapping-tools/mapping-between-icd-10-and-icd-9; 
     * UMLS to ICD-9-CM https://bioportal.bioontology.org/ontologies/ICD9CM
-* Main packages: [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, and see `requirement.txt` for a full list.
 
 ## Pipeline
 The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radilogy reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
@@ -51,11 +51,11 @@ The data files and BERT models are placed according to the structure below. The 
 * Weakly supervised data creation: `step1_tr_data_creat_ment_disamb.py`.
 * Weakly supervised data representation and model training: `step3.4` for MIMIC-III discharge summaries, `step3.6` for MIMIC-III (and Tayside) radiology reports.
 
-If all files are set (bert-models, MIMIC-III data, SemEHR outputs), the main steps of the whole pipeline can be run with `python run_main_steps.py'.
+If all files are set (bert-models, MIMIC-III data, SemEHR outputs), the main steps of the whole pipeline can be run with `python run_main_steps.py`.
 
 ## Reproducing main results from the paper
 
-### main: Text-to-UMLS results: 
+### Main results: Text-to-UMLS
 
 MIMIC-III discharge summaries: `python step4_further_results_from_annotations.py`
 
@@ -63,7 +63,7 @@ MIMIC-III radiology reports: `python step4.1_further_results_from_annotations_fo
 
 Error analysis: `python error_analysis.py`
 
-### Other results (UMLS-to-ORDO, Text-to-ORDO):
+### Other results: UMLS-to-ORDO, Text-to-ORDO
 
 UMLS-to-ORDO: calculated from results in `raw annorations (with model predictions)`.
 
