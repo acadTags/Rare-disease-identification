@@ -1,0 +1,16 @@
+adjustText==0.7.3
+bert_serving==0.0.1
+gensim==3.8.3
+matplotlib==3.3.2
+medcat==1.2.5
+nltk==3.5
+numpy==1.20.3
+pandas==1.1.4
+requests==2.26.0
+scikit_learn==1.0.1
+spacy==2.3.2
+tokenizers==0.10.3
+torch==1.10.0
+tqdm==4.49.0
+transformers==4.12.5
+wordcloud==1.8.1

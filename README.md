@@ -26,6 +26,50 @@ The annotations of rare disease mentions created from this research are availabl
     * ORDO to ICD-10 or UMLS https://www.ebi.ac.uk/ols/ontologies/ordo; 
     * ICD-10 to ICD-9 https://www.health.govt.nz/nz-health-statistics/data-references/mapping-tools/mapping-between-icd-10-and-icd-9; 
     * UMLS to ICD-9-CM https://bioportal.bioontology.org/ontologies/ICD9CM
+* Main packages: [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, and see `requirement.txt` for a full list.
+
+## Pipeline
+The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radilogy reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
+
+```
+└───bert-models
+|   |   run_get_bluebert.sh
+|   |   NCBI_BERT_pubmed_mimic_uncased_L-12_H-768_A-12
+|   |   |   ... (model files)
+└───data/
+|   |   NOTEEVENTS.csv (from MIMIC-III)
+|   |   DIAGNOSES_ICD.csv (from MIMIC-III)
+|   |   PROCEDURES_ICD.csv (from MIMIC-III)
+|   |   mimic-semehr-smp-outputs
+|   |   |   outputs
+|   |   |   |   ... (SemEHR output files of MIMIC-III DS)
+|   |   mimic-rad-semehr-outputs
+|   |   |   outputs
+|   |   |   |   ... (SemEHR output files of MIMIC-III rad)
+```
+
+* Weakly supervised data creation: `step1_tr_data_creat_ment_disamb.py`.
+* Weakly supervised data representation and model training: `step3.4` for MIMIC-III discharge summaries, `step3.6` for MIMIC-III (and Tayside) radiology reports.
+
+If all files are set (bert-models, MIMIC-III data, SemEHR outputs), the main steps of the whole pipeline can be run with `python run_main_steps.py'.
+
+## Reproducing main results from the paper
+
+### main: Text-to-UMLS results: 
+
+MIMIC-III discharge summaries: `python step4_further_results_from_annotations.py`
+
+MIMIC-III radiology reports: `python step4.1_further_results_from_annotations_for_rad.py`
+
+Error analysis: `python error_analysis.py`
+
+### Other results (UMLS-to-ORDO, Text-to-ORDO):
+
+UMLS-to-ORDO: calculated from results in `raw annorations (with model predictions)`.
+
+Text-to-ORDO, mention-level: see `step7` and `step7.1` in `other_scripts`.
+
+Text-to-ORDO, admission-level: see `step8` and `step8.1` in `other_scripts`.
 
 ## Acknowledgement
 This work has been carried out by members from [KnowLab](https://knowlab.github.io/), also thanks to the [EdiE-ClinicalNLP research group](https://www.ed.ac.uk/usher/clinical-natural-language-processing).
