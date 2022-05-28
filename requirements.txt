@@ -1,5 +1,18 @@
 # python version 3.6.*
 
+'''
+conda create -n tf110n tensorflow-gpu=1.10.0 cudatoolkit=9
+#other packages for rare disease identification
+pip install scikit-learn pandas matplotlib adjustText tqdm 
+pip install xlrd openpyxl #for pandas processing and outputing excel files
+pip install bert-serving-server  # server
+pip install bert-serving-client  # client, independent of `bert-serving-server`
+pip install tokenizers
+#for fine-tuning BERT with huggingface transformer
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=9.2 -c pytorch
+pip install transformers
+'''
+
 adjustText==0.7.3
 bert_serving==0.0.1
 gensim==3.8.3
