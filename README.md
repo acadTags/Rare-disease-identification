@@ -49,7 +49,7 @@ The data files and BERT models are placed according to the structure below. The 
 |   |   |   outputs
 |   |   |   |   ... (SemEHR output files of MIMIC-III rad)
 └───models/
-|   |   ... (model `.pik` files)
+|   |   ... (phenotype confirmation model `.pik` files)
 └───ontology/
 |   |   ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx 
         (ontology concept matching file) 
@@ -58,11 +58,12 @@ The data files and BERT models are placed according to the structure below. The 
 ### Key pipeline scripts
 * Weakly supervised data creation: `main_scripts/step1_tr_data_creat_ment_disamb.py`.
 * Weakly supervised data representation and model training: `main_scripts/step3.4` for MIMIC-III discharge summaries, `main_scripts/step3.6` for MIMIC-III (and Tayside) radiology reports.
-** static BERT-based encoding is implemented in `def encode_data_tuple() in main_scripts/sent_bert_emb_viz_util.py` using BERT-as-service; a fine-tuning approach with Huggingface Transformers is in `other_scripts/step3.8_fine_tune_bert_with_trainer.py`.
+    - static BERT-based encoding is implemented in `def encode_data_tuple() in main_scripts/sent_bert_emb_viz_util.py` using BERT-as-service;
+    - a fine-tuning approach with Huggingface Transformers is in `other_scripts/step3.8_fine_tune_bert_with_trainer.py`.
 
-If all files are set (bert-models, MIMIC-III data, SemEHR outputs), the main steps of the whole pipeline can be run with `python run_main_steps.py`.
+If all files are set (MIMIC-III data, SemEHR outputs, BERT models), the main steps of the whole pipeline can be run with `python run_main_steps.py`.
 
-## Reproducing main results from the paper
+## Reproducing results from the paper
 
 Move all files in `main_scripts` (and `other_scripts`) to the upper folder.
 
