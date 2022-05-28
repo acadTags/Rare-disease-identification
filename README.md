@@ -7,20 +7,20 @@ The [latest preprint](https://arxiv.org/abs/2205.05656) of this work is availabl
 ## Entity linking and ontology matching
 A graphical illustration of the entity linking and ontology matching process:
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=80% title="Ontology matching and entity linking for rare disease identification">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Graph%20representation.PNG" width=70% title="Ontology matching and entity linking for rare disease identification">
 </p>
 
 ## Weak supervision (WS)
 The process to create weakly labelled data with contextual representation is illustrated below:
 <p align="center">
-    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=80% title="Weak supervision to improve entity linking">
+    <img src="https://github.com/acadTags/Rare-disease-identification/blob/main/Weak%20supervision%20illustrated.PNG" width=70% title="Weak supervision to improve entity linking">
 </p>
 
 ## Rare disease mention annotations
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Implementation sources
-* Main packages: See `requirement.txt` for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
+* Main packages: See [`requirement.txt`](https://github.com/acadTags/Rare-disease-identification/blob/main/requirements.txt) for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
 * SemEHR can be installed from https://github.com/CogStack/CogStack-SemEHR
 * BlueBERT (Base, Uncased, PubMed+MIMIC-III) models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12
 * Ontology matching: 
@@ -65,7 +65,7 @@ If all files are set (MIMIC-III data, SemEHR outputs, BERT models), the main ste
 
 ## Reproducing results from the paper
 
-Move all files in `main_scripts` (and `other_scripts`) to the upper folder.
+Move all the files inside `main_scripts` (and `other_scripts`) to the upper folder.
 
 ### Main results: Text-to-UMLS
 
