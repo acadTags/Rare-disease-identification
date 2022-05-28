@@ -1,3 +1,5 @@
+# python version 3.6.*
+
 adjustText==0.7.3
 bert_serving==0.0.1
 gensim==3.8.3
