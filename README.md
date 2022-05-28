@@ -20,7 +20,7 @@ The process to create weakly labelled data with contextual representation is ill
 The annotations of rare disease mentions created from this research are available in the folder [`data annotation`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation).
 
 ## Implementation sources
-* Main packages: See [`requirement.txt`](https://github.com/acadTags/Rare-disease-identification/blob/main/requirements.txt) for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
+* Main packages: See [`requirement.txt`](https://github.com/acadTags/Rare-disease-identification/blob/main/requirements.txt) (with conda scripts inside) for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
 * SemEHR can be installed from https://github.com/CogStack/CogStack-SemEHR
 * BlueBERT (Base, Uncased, PubMed+MIMIC-III) models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12
 * Ontology matching: 
