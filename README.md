@@ -31,7 +31,7 @@ The annotations of rare disease mentions created from this research are availabl
 ## Pipeline
 
 ### Data and models
-The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radilogy reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
+The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radiology reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
 
 ```
 └───bert-models
@@ -77,7 +77,7 @@ Error analysis: `python error_analysis.py`
 
 ### Other results: UMLS-to-ORDO, Text-to-ORDO
 
-UMLS-to-ORDO: calculated from results in `raw annorations (with model predictions)`.
+UMLS-to-ORDO: calculated from results in `raw annotations (with model predictions)`.
 
 Text-to-ORDO, mention-level: see `step7` and `step7.1` in `other_scripts`.
 
