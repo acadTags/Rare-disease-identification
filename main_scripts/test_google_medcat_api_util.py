@@ -11,9 +11,9 @@ def get_json_google_healthcare_api(doc, gcloud_access_token):
         'Content-Type': 'application/json',
     }
 
-    data = '{ \'nlpService\':\'projects/clementdong116/locations/europe-west4/services/nlp\', \'documentContent\':\'%s\' }' % doc
+    data = '{ \'nlpService\':\'projects/[username]/locations/[server name]/services/nlp\', \'documentContent\':\'%s\' }' % doc
 
-    response = requests.post('https://healthcare.googleapis.com/v1beta1/projects/clementdong116/locations/europe-west4/services/nlp:analyzeEntities', headers=headers, data=data)
+    response = requests.post('https://healthcare.googleapis.com/v1beta1/projects/[username]/locations/[server name]/services/nlp:analyzeEntities', headers=headers, data=data)
     #documentation https://cloud.google.com/healthcare/docs/reference/rest/v1beta1/projects.locations.services.nlp/analyzeEntities
     
     return response#.text
