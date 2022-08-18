@@ -22,6 +22,7 @@ The annotations of rare disease mentions created from this research are availabl
 ## Implementation sources
 * Main packages: See [`requirement.txt`](https://github.com/acadTags/Rare-disease-identification/blob/main/requirements.txt) (with conda scripts inside) for a full list. [BERT-as-service](https://bert-as-service.readthedocs.io/en/latest/) (follow guide to install), scikit_learn, Huggingface Transformers, numpy, nltk, gensim, pandasm, medcat, etc. 
 * SemEHR can be installed from https://github.com/CogStack/CogStack-SemEHR
+    * [Minimised SemEHR version](https://github.com/CogStack/CogStack-SemEHR/tree/safehaven_mini/installation) was used to process the MIMIC-III radiology reports.
 * BlueBERT (Base, Uncased, PubMed+MIMIC-III) models are from https://github.com/ncbi-nlp/bluebert or https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-12_H-768_A-12
 * Ontology matching: 
     * ORDO to ICD-10 or UMLS https://www.ebi.ac.uk/ols/ontologies/ordo; 
