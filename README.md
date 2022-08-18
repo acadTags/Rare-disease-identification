@@ -30,6 +30,8 @@ The annotations of rare disease mentions created from this research are availabl
 
 ## Pipeline
 
+Note: This is mainly research-based implementation, rather than well-engineered software, but we hope that the code, data, and results provide more details to this work and can be useful.
+
 ### Data and models
 The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radiology reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
 
@@ -64,6 +66,8 @@ The data files and BERT models are placed according to the structure below. The 
 If all files are set (MIMIC-III data, SemEHR outputs, BERT models), the main steps of the whole pipeline can be run with `python run_main_steps.py`.
 
 ## Reproducing results from the paper
+
+This does not need to run the pipeline above, as it is based on the [`prediction scores`](https://github.com/acadTags/Rare-disease-identification/tree/main/data%20annotation/raw%20annotations%20(with%20model%20predictions)).
 
 Move all the files inside `main_scripts` (and `other_scripts`) to the upper folder.
 
