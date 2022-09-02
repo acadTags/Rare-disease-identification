@@ -30,6 +30,7 @@ The annotations of rare disease mentions created from this research are availabl
     * UMLS to ICD-9-CM https://bioportal.bioontology.org/ontologies/ICD9CM
 
 ## Pipeline
+Note: This is mainly research-based implementation, rather than well-engineered software, but we hope that the code, data, and results provide more details to this work and are useful.
 
 ### Data and models
 The data files and BERT models are placed according to the structure below. The SemEHR outputs for MIMIC-III discharge summaries (`mimic-semehr-smp-outputs\outputs`) and MIMIC-III radiology reports (`mimic-rad-semehr-outputs\outputs`) were obtained by running SemEHR.
@@ -63,8 +64,6 @@ The data files and BERT models are placed according to the structure below. The 
     - a fine-tuning approach with Huggingface Transformers is in `other_scripts/step3.8_fine_tune_bert_with_trainer.py`.
 
 If all files are set (MIMIC-III data, SemEHR outputs, BERT models), the main steps of the whole pipeline can be run with `python run_main_steps.py`.
-
-Note: This is mainly research-based implementation, rather than well-engineered software, but we hope that the code, data, and results provide more details to this work and are useful.
 
 ## Reproducing results from the paper
 
