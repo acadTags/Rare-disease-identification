@@ -289,7 +289,7 @@ for i, row in df.iterrows():
     df.at[i,'umls_RD;doc_structure;text_snippet_full;in_text;label'] = row['umls_RD;doc_structure;text_snippet_full;in_text;label']    
     
 # 3. map rare disease UMLS to ORDO and icd9_RD
-map = pd.read_excel('./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx',engine='openpyxl')
+map = pd.read_excel('./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx',engine='openpyxl')
 
 df['ORDO_ID'] = ""
 df['ORDO_ID'] = df['ORDO_ID'].apply(list)
