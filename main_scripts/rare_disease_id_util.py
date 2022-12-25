@@ -235,9 +235,9 @@ def ordo2icd10FromJSON(ORDO_ID_url,exact_or_narrower_only=True):
 # from ORDO2UMLS_ICD10_ICD9+titles.csv, where the relevant columns were created from the ordo.csv file, the ORDO ontology in CSV format
 # for multiple matchings, the output will be seperated by '\n' in each of the ordo_ID_tmp and ordo_pref_label_tmp
 def umls2ordoFromCSV(UMLS_code,default_path='',map=None):
-    #map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),sheet_name="full sheet")
+    #map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),sheet_name="full sheet")
     if map is None:
-        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl') # new coding matching map
+        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl') # new coding matching map
     matched_df=map[map['UMLS IDs'].str.contains(UMLS_code)] # will this match to multiple rows? - yes it can, and then the output will be a df of two rows
     #print(matched_df)
     ordo_ID_tmp = matched_df['ORDO ID'].to_string(index=False)
@@ -268,16 +268,16 @@ def umls2ordoListFromCSV(UMLS_code,default_path='',map=None):
 def ordo2umlsFromCSV(ORDO_ID,default_path='',map=None):
     #map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles.xlsx'),sheet_name="full sheet")
     if map is None:
-        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl') # new coding matching map
+        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl') # new coding matching map
     matched_df=map[map['ORDO ID'].str.endswith(ORDO_ID)] # will this match to multiple rows? - yes it could, and then the output will be a df of two rows. but for ORDO ID matching, each ORDO ID has only one row.
     #print(matched_df)
     umls_ID_tmp = matched_df['UMLS IDs'].to_string(index=False)
     return umls_ID_tmp, map
     
-# from the preprocessed results in ORDO2UMLS_ICD10_ICD9+titles_final_v2.csv
+# from the preprocessed results in ORDO2UMLS_ICD10_ICD9+titles_final_v3.csv
 def umls2ICD9FromCSV(UMLS_code,default_path='',map=None,onto_source='NZ',exact_or_narrower_only=False):  
     if map is None:
-        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl')
+        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl')
     #map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles.xlsx'),sheet_name="full sheet")
     matched_df=map[map['UMLS IDs'].str.contains(UMLS_code)] # will this match to multiple rows? - yes
     # set onto_source to 'NZ' as default if not recognisable (not NZ or bp)   
@@ -328,7 +328,7 @@ def umls2ICD9FromCSV(UMLS_code,default_path='',map=None,onto_source='NZ',exact_o
 #output: a tuple (list of ORDO IDs, list of ORDO_pref_labels)
 def ICD92ORDOListFromCSV(ICD9_code,default_path='',map=None,onto_source='NZ',exact_or_narrower_only=False):
     if map is None:
-        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl')
+        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl')
     # set onto_source to 'NZ' as default if not recognisable (not NZ or bp)   
     onto_source = 'NZ' if onto_source != 'NZ' and onto_source != 'bp' and onto_source != 'both' else onto_source    
     if exact_or_narrower_only and onto_source == 'NZ': 
@@ -361,7 +361,7 @@ def ICD92ORDOListFromCSV(ICD9_code,default_path='',map=None,onto_source='NZ',exa
 # input: an ICD9 code, which does not contianing dot(.); and the path whether the code matching sheet is stored
 # output: whether the ICD9 code has a linkage to the ORDO through ICD9 -> ICD10 -> ORDO  
 def hasICD9linkage2ORDO(ICD9_code,default_path=''):
-    map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl',sheet_name="full sheet")
+    map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl',sheet_name="full sheet")
     matched_df=map[map['icd9'].str.contains('\' %s\'' % ICD9_code.strip())] # will this match to multiple rows? - yes
     return len(matched_df) > 0
 
@@ -508,7 +508,7 @@ def get_ORDO_pref_label_from_CSV(OrphanetID,default_path='',map=None):
     if OrphanetID == '':
         return '', map
     if map is None:
-        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx'),engine='openpyxl')
+        map = pd.read_excel(os.path.join(default_path,'./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx'),engine='openpyxl')
     matched_df=map[map['ORDO ID'] == ('http://www.orpha.net/ORDO/' + OrphanetID)] # will this match to multiple rows? - yes
     if len(matched_df) == 0:
         #directly return empty lists if no matching

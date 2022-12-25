@@ -6,7 +6,7 @@ import re
 
 def get_rare_disease_umls():
     #df = pd.read_excel("ORDO2UMLS_ICD10_ICD9+titles.xlsx", sheet_name="full sheet")
-    df = pd.read_excel("./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx",engine='openpyxl')
+    df = pd.read_excel("./ontology/ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx",engine='openpyxl')
     # get the column of UMLS IDs
 
     dict_umls = defaultdict(int)
