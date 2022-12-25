@@ -53,7 +53,7 @@ The data files and BERT models are placed according to the structure below. The 
 └───models/
 |   |   ... (phenotype confirmation model `.pik` files)
 └───ontology/
-|   |   ORDO2UMLS_ICD10_ICD9+titles_final_v3.xlsx 
+|   |   ORDO2UMLS_ICD10_ICD9+titles_final_v2.xlsx 
         (ontology concept matching file) 
 ```
 
